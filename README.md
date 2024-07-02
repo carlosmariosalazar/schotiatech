@@ -1,2 +1,2 @@
-## ** Prueba tecnica - Junior Data Engineer**
+## **Prueba tecnica - Junior Data Engineer**
 

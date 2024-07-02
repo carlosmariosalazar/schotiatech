@@ -1,0 +1,10 @@
+faker
+mysql-connector-python
+python-dotenv
+ipykernel
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+feature-engine

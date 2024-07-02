@@ -1,0 +1,2001 @@
+id,period,status,city_client,department_client,status_str,department_code,country_client
+1,2022-03-16 19:56:42,0,Soracá,Boyacá,inactive,15,Colombia
+2,2022-04-30 19:14:36,1,Puerto Libertador,Córdoba,active,23,Colombia
+3,2023-05-20 21:17:44,0,Iles,Nariño,inactive,52,Colombia
+4,2023-05-05 04:50:31,0,Solita,Caquetá,inactive,18,Colombia
+5,2022-02-14 05:17:56,1,San Andrés,"San Andrés, Providencia y Santa Catalina",active,88,Colombia
+6,2023-09-26 13:49:01,0,Filandia,Quindío,inactive,63,Colombia
+7,2022-02-17 23:12:15,1,Encino,Santander,active,68,Colombia
+8,2023-06-29 11:10:01,0,Sogamoso,Boyacá,inactive,15,Colombia
+9,2023-09-12 01:26:08,1,Gamarra,Cesar,active,20,Colombia
+10,2024-01-23 00:48:24,0,Íquira,Huila,inactive,41,Colombia
+11,2023-07-08 16:50:49,1,Páez,Boyacá,active,15,Colombia
+12,2023-07-30 16:53:08,1,Yalí,Antioquia,active,5,Colombia
+13,2023-08-27 11:33:30,1,Guavatá,Santander,active,68,Colombia
+14,2024-01-15 18:51:46,1,Granada,Antioquia,active,5,Colombia
+15,2022-08-15 18:50:10,0,Jordán,Santander,inactive,68,Colombia
+16,2022-04-27 21:10:34,0,Apartadó,Antioquia,inactive,5,Colombia
+17,2022-12-01 19:30:44,1,Yacuanquer,Nariño,active,52,Colombia
+18,2022-11-26 21:32:34,1,El Tambo,Nariño,active,52,Colombia
+19,2023-04-28 01:16:02,1,Olaya Herrera,Nariño,active,52,Colombia
+20,2023-11-05 06:47:41,0,Granada,Antioquia,inactive,5,Colombia
+21,2022-10-18 06:59:53,0,Pisba,Boyacá,inactive,15,Colombia
+22,2022-04-12 12:15:23,0,Marsella,Risaralda,inactive,66,Colombia
+23,2023-06-08 01:16:16,0,San Sebastián de Buenavista,Magdalena,inactive,47,Colombia
+24,2022-09-26 11:52:23,1,El Peñol,Nariño,active,52,Colombia
+25,2022-05-12 17:18:13,1,San Luis de Palenque,Casanare,active,85,Colombia
+26,2023-07-21 05:27:08,0,Ciénega,Boyacá,inactive,15,Colombia
+27,2023-02-22 19:00:56,0,San Antonio del Tequendama,Cundinamarca,inactive,25,Colombia
+28,2022-03-11 09:48:47,1,Salamina,Magdalena,active,47,Colombia
+29,2022-09-17 16:53:20,0,Candelaria,Valle del Cauca,inactive,76,Colombia
+30,2022-06-28 17:28:15,0,Une,Cundinamarca,inactive,25,Colombia
+31,2022-10-02 10:52:16,1,Fómeque,Cundinamarca,active,25,Colombia
+32,2022-09-19 11:27:33,0,Pedraza,Magdalena,inactive,47,Colombia
+33,2022-08-18 06:28:24,1,San Luis de Palenque,Casanare,active,85,Colombia
+34,2022-02-07 23:16:12,1,Recetor,Casanare,active,85,Colombia
+35,2023-03-13 21:30:09,0,La Florida,Nariño,inactive,52,Colombia
+36,2024-01-14 19:10:46,0,Cicuco,Bolívar,inactive,13,Colombia
+37,2023-12-20 19:20:50,1,Garagoa,Boyacá,active,15,Colombia
+38,2023-12-24 16:35:58,1,Barranco de Loba,Bolívar,active,13,Colombia
+39,2023-06-22 14:45:24,1,San Pedro de los Milagros,Antioquia,active,5,Colombia
+40,2022-04-10 02:19:57,1,Subachoque,Cundinamarca,active,25,Colombia
+41,2023-05-07 10:22:23,0,San Luis,Antioquia,inactive,5,Colombia
+42,2022-05-07 01:46:34,1,Tasco,Boyacá,active,15,Colombia
+43,2022-01-14 10:54:40,0,San Bernardo,Cundinamarca,inactive,25,Colombia
+44,2022-10-26 02:59:10,0,Íquira,Huila,inactive,41,Colombia
+45,2023-05-16 10:47:06,1,El Cairo,Valle del Cauca,active,76,Colombia
+46,2023-09-29 00:48:08,1,La Gloria,Cesar,active,20,Colombia
+47,2023-02-21 21:08:36,1,Margarita,Bolívar,active,13,Colombia
+48,2023-02-01 04:58:32,1,Guayabal de Síquima,Cundinamarca,active,25,Colombia
+49,2023-12-10 15:50:54,1,Puerto Asís,Putumayo,active,86,Colombia
+50,2022-12-26 19:56:26,1,Jenesano,Boyacá,active,15,Colombia
+51,2023-05-31 19:25:08,0,Chaparral,Tolima,inactive,73,Colombia
+52,2023-05-10 08:06:28,1,San Agustín,Huila,active,41,Colombia
+53,2023-07-28 08:56:03,1,Cereté,Córdoba,active,23,Colombia
+54,2022-02-03 06:13:54,0,Río Quito,Chocó,inactive,27,Colombia
+55,2022-07-14 14:52:15,1,Ituango,Antioquia,active,5,Colombia
+56,2023-01-21 10:45:12,0,Buenavista,Sucre,inactive,70,Colombia
+57,2023-10-01 01:59:34,0,San Andrés,Santander,inactive,68,Colombia
+58,2024-01-06 07:53:19,1,Villagarzón,Putumayo,active,86,Colombia
+59,2022-03-04 19:04:41,0,Colombia,Huila,inactive,41,Colombia
+60,2023-10-27 23:34:39,1,Pivijay,Magdalena,active,47,Colombia
+61,2022-06-18 19:56:25,0,Albania,Santander,inactive,68,Colombia
+62,2022-12-23 06:50:53,1,Colón,Putumayo,active,86,Colombia
+63,2022-08-05 14:43:32,1,Venadillo,Tolima,active,73,Colombia
+64,2023-03-21 00:36:22,1,Sutatenza,Boyacá,active,15,Colombia
+65,2022-11-09 21:10:01,0,Anzoátegui,Tolima,inactive,73,Colombia
+66,2022-10-16 22:37:33,0,Mallama,Nariño,inactive,52,Colombia
+67,2022-12-31 01:22:11,0,Zapatoca,Santander,inactive,68,Colombia
+68,2023-12-16 03:59:44,1,Sutatausa,Cundinamarca,active,25,Colombia
+69,2023-12-01 03:25:28,1,Simacota,Santander,active,68,Colombia
+70,2023-05-04 23:55:40,1,Pueblo Nuevo,Córdoba,active,23,Colombia
+71,2022-07-02 17:57:15,1,Los Córdobas,Córdoba,active,23,Colombia
+72,2022-04-08 03:18:01,0,Puerto Wilches,Santander,inactive,68,Colombia
+73,2024-01-11 07:17:02,0,San Zenón,Magdalena,inactive,47,Colombia
+74,2024-01-24 09:01:48,0,El Roble,Sucre,inactive,70,Colombia
+75,2022-04-29 07:51:31,1,Nunchía,Casanare,active,85,Colombia
+76,2023-05-14 06:26:24,0,Guacamayas,Boyacá,inactive,15,Colombia
+77,2022-08-27 01:28:19,0,Andalucía,Valle del Cauca,inactive,76,Colombia
+78,2023-03-18 02:08:48,0,Montenegro,Quindío,inactive,63,Colombia
+79,2022-02-19 04:38:03,0,Los Palmitos,Sucre,inactive,70,Colombia
+80,2023-04-20 17:19:18,0,Cicuco,Bolívar,inactive,13,Colombia
+81,2023-07-24 06:32:16,0,San Alberto,Cesar,inactive,20,Colombia
+82,2023-04-09 21:42:51,0,Corinto,Cauca,inactive,19,Colombia
+83,2023-12-23 23:22:47,0,San Estanislao,Bolívar,inactive,13,Colombia
+84,2022-09-23 05:16:12,0,Herveo,Tolima,inactive,73,Colombia
+85,2022-09-26 01:04:09,1,Taminango,Nariño,active,52,Colombia
+86,2023-11-25 11:04:37,1,Samaniego,Nariño,active,52,Colombia
+87,2023-10-24 16:19:14,0,Unión Panamericana,Chocó,inactive,27,Colombia
+88,2022-09-03 21:16:44,0,Teorama,Norte de Santander,inactive,54,Colombia
+89,2022-08-15 10:02:52,0,El Colegio,Cundinamarca,inactive,25,Colombia
+90,2023-03-14 13:08:18,0,Yopal,Casanare,inactive,85,Colombia
+91,2022-08-10 17:50:22,1,Gachalá,Cundinamarca,active,25,Colombia
+92,2022-01-25 20:48:09,1,Florián,Santander,active,68,Colombia
+93,2022-07-16 10:23:02,1,Pital,Huila,active,41,Colombia
+94,2023-04-03 21:50:45,1,Rovira,Tolima,active,73,Colombia
+95,2023-09-14 01:59:34,0,Plato,Magdalena,inactive,47,Colombia
+96,2022-06-06 23:02:51,0,González,Cesar,inactive,20,Colombia
+97,2022-08-15 02:53:33,1,Timaná,Huila,active,41,Colombia
+98,2022-11-05 18:28:29,0,Pueblo Bello,Cesar,inactive,20,Colombia
+99,2023-03-04 23:43:43,0,Floresta,Boyacá,inactive,15,Colombia
+100,2022-10-19 08:20:09,0,Gachetá,Cundinamarca,inactive,25,Colombia
+101,2023-09-25 09:41:22,0,Vianí,Cundinamarca,inactive,25,Colombia
+102,2023-12-31 23:06:51,0,Hispania,Antioquia,inactive,5,Colombia
+103,2023-02-09 10:08:43,0,Hatonuevo,La Guajira,inactive,44,Colombia
+104,2022-03-02 15:25:41,1,Talaigua Nuevo,Bolívar,active,13,Colombia
+105,2023-12-06 21:16:45,1,Agustín Codazzi,Cesar,active,20,Colombia
+106,2023-12-24 20:31:21,0,Ebéjico,Antioquia,inactive,5,Colombia
+107,2022-06-03 19:21:23,0,Chita,Boyacá,inactive,15,Colombia
+108,2022-06-08 20:34:52,0,Santa Rosa de Cabal,Risaralda,inactive,66,Colombia
+109,2023-02-16 18:30:06,0,Tibirita,Cundinamarca,inactive,25,Colombia
+110,2023-07-21 09:01:23,1,Madrid,Cundinamarca,active,25,Colombia
+111,2023-02-23 16:20:52,0,Nilo,Cundinamarca,inactive,25,Colombia
+112,2023-08-14 18:18:32,1,Paratebueno,Cundinamarca,active,25,Colombia
+113,2023-11-17 00:15:41,0,San Andrés de Cuerquía,Antioquia,inactive,5,Colombia
+114,2023-10-10 19:35:26,0,Guapotá,Santander,inactive,68,Colombia
+115,2023-01-04 07:15:01,1,Ubaque,Cundinamarca,active,25,Colombia
+116,2022-03-03 17:44:34,1,Padilla,Cauca,active,19,Colombia
+117,2023-06-01 10:00:08,1,Nueva Granada,Magdalena,active,47,Colombia
+118,2022-02-12 15:54:18,1,Cucunubá,Cundinamarca,active,25,Colombia
+119,2023-09-15 08:12:22,1,Tibaná,Boyacá,active,15,Colombia
+120,2022-09-07 22:55:27,0,Cubarral,Meta,inactive,50,Colombia
+121,2022-06-06 14:33:28,1,San Sebastián de Buenavista,Magdalena,active,47,Colombia
+122,2022-06-07 07:03:23,0,Madrid,Cundinamarca,inactive,25,Colombia
+123,2022-12-02 10:33:18,1,Caicedonia,Valle del Cauca,active,76,Colombia
+124,2023-06-07 21:48:44,0,Santiago,Putumayo,inactive,86,Colombia
+125,2022-06-19 15:38:50,0,Chiriguaná,Cesar,inactive,20,Colombia
+126,2022-08-27 05:27:24,0,El Paujíl,Caquetá,inactive,18,Colombia
+127,2022-01-11 19:05:57,1,Caldas,Antioquia,active,5,Colombia
+128,2023-05-22 11:07:58,0,Supatá,Cundinamarca,inactive,25,Colombia
+129,2022-05-12 05:15:03,0,La Jagua del Pilar,La Guajira,inactive,44,Colombia
+130,2023-10-26 19:40:05,0,El Roble,Sucre,inactive,70,Colombia
+131,2022-07-23 11:14:53,0,Tota,Boyacá,inactive,15,Colombia
+132,2022-09-13 09:24:41,1,Vijes,Valle del Cauca,active,76,Colombia
+133,2022-06-26 18:30:10,1,Riosucio,Chocó,active,27,Colombia
+134,2023-03-03 17:58:04,1,Teruel,Huila,active,41,Colombia
+135,2023-11-07 20:42:38,0,El Carmen,Norte de Santander,inactive,54,Colombia
+136,2023-09-12 14:07:03,0,Garagoa,Boyacá,inactive,15,Colombia
+137,2022-06-02 19:09:09,0,Villavicencio,Meta,inactive,50,Colombia
+138,2022-10-11 23:33:44,0,Santa Rosa,Cauca,inactive,19,Colombia
+139,2024-01-12 14:28:59,0,Guasca,Cundinamarca,inactive,25,Colombia
+140,2023-03-19 21:07:52,1,Sardinata,Norte de Santander,active,54,Colombia
+141,2022-11-19 15:15:22,1,Vijes,Valle del Cauca,active,76,Colombia
+142,2022-09-26 15:06:56,0,Corrales,Boyacá,inactive,15,Colombia
+143,2022-08-26 11:10:01,1,Paz de Ariporo,Casanare,active,85,Colombia
+144,2023-08-12 21:43:58,0,Imués,Nariño,inactive,52,Colombia
+145,2022-02-20 12:50:59,1,Belén de Umbría,Risaralda,active,66,Colombia
+146,2023-10-25 17:38:09,1,Tauramena,Casanare,active,85,Colombia
+147,2023-02-15 11:16:06,1,Ebéjico,Antioquia,active,5,Colombia
+148,2023-11-01 06:12:49,1,Villagómez,Cundinamarca,active,25,Colombia
+149,2023-11-14 18:31:31,0,Hacarí,Norte de Santander,inactive,54,Colombia
+150,2022-08-02 12:32:29,1,Cucaita,Boyacá,active,15,Colombia
+151,2023-01-05 13:56:22,1,Melgar,Tolima,active,73,Colombia
+152,2023-12-18 17:35:58,1,Barichara,Santander,active,68,Colombia
+153,2023-02-03 11:27:15,1,Sáchica,Boyacá,active,15,Colombia
+154,2022-11-24 19:03:56,0,Astrea,Cesar,inactive,20,Colombia
+155,2023-07-12 17:59:32,1,Toca,Boyacá,active,15,Colombia
+156,2022-02-07 03:35:53,0,Ábrego,Norte de Santander,inactive,54,Colombia
+157,2022-12-25 17:47:17,1,Cerro de San Antonio,Magdalena,active,47,Colombia
+158,2022-09-05 06:12:35,1,Lérida,Tolima,active,73,Colombia
+159,2023-08-31 06:58:30,1,Salento,Quindío,active,63,Colombia
+160,2023-05-09 14:25:05,0,Sucre,Santander,inactive,68,Colombia
+161,2024-01-13 16:40:20,0,Arenal,Bolívar,inactive,13,Colombia
+162,2023-09-10 23:38:49,0,San Pablo de Borbur,Boyacá,inactive,15,Colombia
+163,2023-09-15 21:11:46,0,Majagual,Sucre,inactive,70,Colombia
+164,2023-09-09 03:19:32,0,Almaguer,Cauca,inactive,19,Colombia
+165,2022-06-24 03:21:39,0,Los Córdobas,Córdoba,inactive,23,Colombia
+166,2023-07-30 00:45:29,1,Labateca,Norte de Santander,active,54,Colombia
+167,2022-02-09 19:36:02,1,Tasco,Boyacá,active,15,Colombia
+168,2023-02-02 14:52:54,0,Chipaque,Cundinamarca,inactive,25,Colombia
+169,2023-10-14 23:37:25,0,Puerto Salgar,Cundinamarca,inactive,25,Colombia
+170,2023-12-14 05:39:07,0,San Pedro de Cartago,Nariño,inactive,52,Colombia
+171,2022-01-18 23:59:23,1,Pivijay,Magdalena,active,47,Colombia
+172,2023-11-16 20:17:48,1,Cumbal,Nariño,active,52,Colombia
+173,2022-12-02 03:00:25,0,Pácora,Caldas,inactive,17,Colombia
+174,2022-03-10 07:44:04,0,San Felipe,Guainía,inactive,94,Colombia
+175,2022-08-17 16:08:45,0,Papunahua,Vaupés,inactive,97,Colombia
+176,2022-12-29 12:18:51,0,Puerto Lleras,Meta,inactive,50,Colombia
+177,2023-10-21 23:04:13,1,Saravena,Arauca,active,81,Colombia
+178,2022-10-08 19:17:58,0,Trujillo,Valle del Cauca,inactive,76,Colombia
+179,2023-11-05 18:17:02,0,Sampués,Sucre,inactive,70,Colombia
+180,2023-01-15 10:38:15,0,Apulo,Cundinamarca,inactive,25,Colombia
+181,2022-02-03 22:16:55,1,El Banco,Magdalena,active,47,Colombia
+182,2022-11-13 16:50:56,0,Carolina,Antioquia,inactive,5,Colombia
+183,2023-03-01 22:40:37,0,Quimbaya,Quindío,inactive,63,Colombia
+184,2023-06-15 06:47:50,0,La Sierra,Cauca,inactive,19,Colombia
+185,2022-11-10 13:53:21,0,Morichal,Guainía,inactive,94,Colombia
+186,2022-02-06 05:11:26,0,Cañasgordas,Antioquia,inactive,5,Colombia
+187,2022-01-22 06:02:39,1,Zapatoca,Santander,active,68,Colombia
+188,2022-09-05 17:56:15,1,Maicao,La Guajira,active,44,Colombia
+189,2023-12-18 03:18:26,1,Sabanalarga,Atlántico,active,8,Colombia
+190,2022-06-22 12:40:04,0,Medio Baudó,Chocó,inactive,27,Colombia
+191,2022-09-10 03:29:47,0,San Diego,Cesar,inactive,20,Colombia
+192,2022-07-10 12:30:13,1,Aguada,Santander,active,68,Colombia
+193,2023-10-03 18:33:00,0,Pupiales,Nariño,inactive,52,Colombia
+194,2023-06-28 17:12:56,1,La Apartada,Córdoba,active,23,Colombia
+195,2023-12-23 13:46:48,1,Sucre,Sucre,active,70,Colombia
+196,2023-02-27 00:24:36,0,Becerril,Cesar,inactive,20,Colombia
+197,2023-07-07 20:33:10,1,San Miguel de Sema,Boyacá,active,15,Colombia
+198,2022-12-31 16:27:31,0,Tota,Boyacá,inactive,15,Colombia
+199,2023-02-20 01:18:00,0,Margarita,Bolívar,inactive,13,Colombia
+200,2023-04-03 02:35:38,1,Machetá,Cundinamarca,active,25,Colombia
+201,2022-03-26 22:22:48,1,La Salina,Casanare,active,85,Colombia
+202,2024-01-27 21:25:04,1,Buenavista,Sucre,active,70,Colombia
+203,2023-10-12 21:22:40,1,Corrales,Boyacá,active,15,Colombia
+204,2022-01-25 00:14:09,0,Aguada,Santander,inactive,68,Colombia
+205,2022-12-29 06:08:20,0,Barranca de Upía,Meta,inactive,50,Colombia
+206,2023-08-14 05:43:03,0,Tibirita,Cundinamarca,inactive,25,Colombia
+207,2022-07-03 14:22:04,0,Nueva Granada,Magdalena,inactive,47,Colombia
+208,2022-09-19 01:34:55,0,Valparaíso,Caquetá,inactive,18,Colombia
+209,2023-06-11 12:23:28,0,Hispania,Antioquia,inactive,5,Colombia
+210,2023-01-28 22:26:31,1,Galapa,Atlántico,active,8,Colombia
+211,2023-09-04 07:51:55,0,Palestina,Caldas,inactive,17,Colombia
+212,2022-09-08 23:41:16,0,El Carmen de Chucurí,Santander,inactive,68,Colombia
+213,2023-04-18 03:56:56,1,Coromoro,Santander,active,68,Colombia
+214,2023-09-05 13:01:07,1,Pupiales,Nariño,active,52,Colombia
+215,2023-04-20 01:53:32,1,Salazar,Norte de Santander,active,54,Colombia
+216,2023-08-26 16:54:41,1,Cartagena del Chairá,Caquetá,active,18,Colombia
+217,2022-01-29 10:21:50,0,El Retorno,Guaviare,inactive,95,Colombia
+218,2023-12-10 19:57:14,1,San Andrés de Cuerquía,Antioquia,active,5,Colombia
+219,2023-04-25 05:45:25,1,Armero,Tolima,active,73,Colombia
+220,2022-06-01 22:23:37,1,Aranzazu,Caldas,active,17,Colombia
+221,2022-08-08 04:38:32,0,Tocaima,Cundinamarca,inactive,25,Colombia
+222,2022-11-29 22:25:27,1,Pachavita,Boyacá,active,15,Colombia
+223,2023-02-20 23:36:05,1,Restrepo,Meta,active,50,Colombia
+224,2023-03-28 12:48:59,0,Chiquinquirá,Boyacá,inactive,15,Colombia
+225,2023-01-09 21:17:39,0,El Cairo,Valle del Cauca,inactive,76,Colombia
+226,2023-11-11 07:51:14,0,Nemocón,Cundinamarca,inactive,25,Colombia
+227,2022-01-03 21:55:46,0,Fusagasugá,Cundinamarca,inactive,25,Colombia
+228,2022-01-29 22:07:33,0,El Cairo,Valle del Cauca,inactive,76,Colombia
+229,2022-05-02 12:14:16,0,Caparrapí,Cundinamarca,inactive,25,Colombia
+230,2023-08-17 02:19:41,1,Santa María,Huila,active,41,Colombia
+231,2022-02-02 05:24:03,1,San Cayetano,Norte de Santander,active,54,Colombia
+232,2023-01-26 09:52:09,0,Cucutilla,Norte de Santander,inactive,54,Colombia
+233,2023-11-03 07:07:18,1,Pailitas,Cesar,active,20,Colombia
+234,2022-10-19 21:53:00,1,Tibasosa,Boyacá,active,15,Colombia
+235,2023-09-16 07:47:43,1,San José de la Montaña,Antioquia,active,5,Colombia
+236,2022-06-14 03:10:27,1,Turbaco,Bolívar,active,13,Colombia
+237,2023-03-11 00:35:55,0,Armenia,Quindío,inactive,63,Colombia
+238,2022-09-21 09:27:39,0,Gualmatán,Nariño,inactive,52,Colombia
+239,2024-01-24 16:36:33,1,Pacho,Cundinamarca,active,25,Colombia
+240,2022-01-18 08:20:19,0,Tasco,Boyacá,inactive,15,Colombia
+241,2023-10-15 00:03:56,0,Silos,Norte de Santander,inactive,54,Colombia
+242,2023-09-22 06:43:43,0,Cimitarra,Santander,inactive,68,Colombia
+243,2022-06-29 23:28:33,1,La Victoria,Valle del Cauca,active,76,Colombia
+244,2022-01-30 02:02:55,1,Ábrego,Norte de Santander,active,54,Colombia
+245,2022-07-04 12:13:24,0,Caicedo,Antioquia,inactive,5,Colombia
+246,2022-01-11 21:47:50,0,San Carlos,Córdoba,inactive,23,Colombia
+247,2022-12-04 15:29:56,0,Arauquita,Arauca,inactive,81,Colombia
+248,2023-07-20 16:45:06,1,San Juan del Cesar,La Guajira,active,44,Colombia
+249,2022-07-01 14:53:44,0,Úmbita,Boyacá,inactive,15,Colombia
+250,2022-03-29 10:38:56,0,San Bernardo,Nariño,inactive,52,Colombia
+251,2023-10-04 09:25:26,1,Concordia,Antioquia,active,5,Colombia
+252,2024-01-25 21:17:07,1,San Juanito,Meta,active,50,Colombia
+253,2023-03-05 05:07:19,0,Riohacha,La Guajira,inactive,44,Colombia
+254,2022-04-26 10:19:16,1,Cumaribo,Vichada,active,99,Colombia
+255,2023-11-02 16:23:15,1,Vergara,Cundinamarca,active,25,Colombia
+256,2022-04-20 19:23:54,1,Anzoátegui,Tolima,active,73,Colombia
+257,2023-01-21 06:23:54,1,El Cantón del San Pablo,Chocó,active,27,Colombia
+258,2022-10-25 08:48:15,1,Tipacoque,Boyacá,active,15,Colombia
+259,2023-01-20 00:46:31,1,Samacá,Boyacá,active,15,Colombia
+260,2023-07-05 06:42:47,1,Planadas,Tolima,active,73,Colombia
+261,2022-05-15 22:01:20,1,Policarpa,Nariño,active,52,Colombia
+262,2022-11-18 03:11:30,0,Marinilla,Antioquia,inactive,5,Colombia
+263,2022-09-13 11:02:13,1,Donmatías,Antioquia,active,5,Colombia
+264,2023-12-08 06:46:22,0,Anolaima,Cundinamarca,inactive,25,Colombia
+265,2022-03-12 21:21:17,0,Mapiripán,Meta,inactive,50,Colombia
+266,2022-06-09 20:01:26,1,Susa,Cundinamarca,active,25,Colombia
+267,2022-01-22 22:12:01,0,Buenaventura,Valle del Cauca,inactive,76,Colombia
+268,2022-04-06 07:48:09,1,Chivolo,Magdalena,active,47,Colombia
+269,2023-09-09 16:44:06,0,Uribe,Meta,inactive,50,Colombia
+270,2023-12-18 09:19:10,0,Ragonvalia,Norte de Santander,inactive,54,Colombia
+271,2022-07-22 12:47:16,1,Solano,Caquetá,active,18,Colombia
+272,2022-08-01 05:44:31,0,Cravo Norte,Arauca,inactive,81,Colombia
+273,2023-09-24 23:04:44,0,Molagavita,Santander,inactive,68,Colombia
+274,2024-01-26 21:05:11,1,Vianí,Cundinamarca,active,25,Colombia
+275,2023-07-09 16:51:21,1,Puerto Escondido,Córdoba,active,23,Colombia
+276,2022-05-22 17:45:13,1,Covarachía,Boyacá,active,15,Colombia
+277,2023-08-16 17:52:23,0,Yumbo,Valle del Cauca,inactive,76,Colombia
+278,2023-10-14 12:06:21,1,Buenavista,Boyacá,active,15,Colombia
+279,2023-05-15 11:08:54,0,San Vicente Ferrer,Antioquia,inactive,5,Colombia
+280,2023-07-09 16:24:16,1,Guacarí,Valle del Cauca,active,76,Colombia
+281,2023-07-04 14:33:04,1,Toro,Valle del Cauca,active,76,Colombia
+282,2023-08-12 20:53:33,0,San Andrés de Sotavento,Córdoba,inactive,23,Colombia
+283,2022-09-27 11:31:58,1,Suárez,Cauca,active,19,Colombia
+284,2022-08-03 14:48:07,1,Maripí,Boyacá,active,15,Colombia
+285,2022-03-17 05:24:39,0,Matanza,Santander,inactive,68,Colombia
+286,2022-12-14 16:32:19,1,Restrepo,Valle del Cauca,active,76,Colombia
+287,2023-01-21 11:12:29,1,San Andrés,Santander,active,68,Colombia
+288,2022-06-23 09:53:26,1,Pereira,Risaralda,active,66,Colombia
+289,2022-04-04 00:54:54,0,Zetaquira,Boyacá,inactive,15,Colombia
+290,2023-10-07 23:30:55,0,Carmen de Carupa,Cundinamarca,inactive,25,Colombia
+291,2023-12-05 03:57:43,0,Pacho,Cundinamarca,inactive,25,Colombia
+292,2023-09-19 10:48:46,0,Restrepo,Meta,inactive,50,Colombia
+293,2024-01-02 20:40:47,0,Mallama,Nariño,inactive,52,Colombia
+294,2022-10-31 09:59:28,0,Pensilvania,Caldas,inactive,17,Colombia
+295,2022-05-30 16:39:26,1,Herrán,Norte de Santander,active,54,Colombia
+296,2023-07-19 20:41:06,0,Riohacha,La Guajira,inactive,44,Colombia
+297,2023-01-05 22:34:12,1,Bogotá,Cundinamarca,active,25,Colombia
+298,2023-09-04 04:45:22,0,Sucre,Santander,inactive,68,Colombia
+299,2023-01-02 16:56:17,0,Santa Cruz de Mompox,Bolívar,inactive,13,Colombia
+300,2023-04-10 12:45:50,0,Santa Rosa de Osos,Antioquia,inactive,5,Colombia
+301,2022-06-06 21:40:28,0,Francisco Pizarro,Nariño,inactive,52,Colombia
+302,2023-06-14 14:45:48,0,Herveo,Tolima,inactive,73,Colombia
+303,2023-04-11 08:08:45,0,Tocaima,Cundinamarca,inactive,25,Colombia
+304,2023-10-06 16:41:24,1,Junín,Cundinamarca,active,25,Colombia
+305,2022-09-08 04:38:09,0,San José,Caldas,inactive,17,Colombia
+306,2022-06-19 19:08:10,1,Quetame,Cundinamarca,active,25,Colombia
+307,2023-10-16 00:54:39,0,Aracataca,Magdalena,inactive,47,Colombia
+308,2022-04-10 05:21:16,0,Guachucal,Nariño,inactive,52,Colombia
+309,2023-05-24 18:15:28,1,Puerto Santander,Amazonas,active,91,Colombia
+310,2022-04-16 02:41:41,0,Taminango,Nariño,inactive,52,Colombia
+311,2022-05-19 15:54:27,0,Barrancominas,Guainía,inactive,94,Colombia
+312,2023-05-27 21:23:54,1,Concordia,Antioquia,active,5,Colombia
+313,2023-02-11 23:21:55,1,Vergara,Cundinamarca,active,25,Colombia
+314,2022-01-31 13:26:34,1,Alpujarra,Tolima,active,73,Colombia
+315,2022-12-19 16:32:07,1,Lloró,Chocó,active,27,Colombia
+316,2022-11-03 13:27:01,0,San Luis de Gaceno,Boyacá,inactive,15,Colombia
+317,2023-01-10 03:18:44,0,Betania,Antioquia,inactive,5,Colombia
+318,2023-02-21 09:14:48,0,Fundación,Magdalena,inactive,47,Colombia
+319,2022-11-18 00:05:43,0,Talaigua Nuevo,Bolívar,inactive,13,Colombia
+320,2023-12-07 08:40:48,1,Samaniego,Nariño,active,52,Colombia
+321,2022-11-01 06:12:42,1,Monterrey,Casanare,active,85,Colombia
+322,2023-02-01 12:55:13,1,El Dorado,Meta,active,50,Colombia
+323,2023-01-02 02:04:20,0,Sapuyes,Nariño,inactive,52,Colombia
+324,2022-06-16 05:46:49,1,Salento,Quindío,active,63,Colombia
+325,2024-01-20 17:28:54,1,Iza,Boyacá,active,15,Colombia
+326,2023-07-16 22:48:38,0,Sabana de Torres,Santander,inactive,68,Colombia
+327,2023-06-14 12:38:11,0,Nimaima,Cundinamarca,inactive,25,Colombia
+328,2022-12-15 18:26:28,1,Florida,Valle del Cauca,active,76,Colombia
+329,2023-08-07 13:38:29,1,Villavicencio,Meta,active,50,Colombia
+330,2023-07-15 08:46:03,1,Fosca,Cundinamarca,active,25,Colombia
+331,2023-01-11 07:46:26,1,El Copey,Cesar,active,20,Colombia
+332,2022-12-05 04:01:56,0,Puente Nacional,Santander,inactive,68,Colombia
+333,2023-04-30 20:01:00,1,Chivolo,Magdalena,active,47,Colombia
+334,2022-12-18 09:08:11,1,Coper,Boyacá,active,15,Colombia
+335,2022-03-23 19:44:26,0,Ricaurte,Nariño,inactive,52,Colombia
+336,2023-03-23 05:07:10,0,Puebloviejo,Magdalena,inactive,47,Colombia
+337,2023-10-29 05:48:25,0,Santa Cruz de Mompox,Bolívar,inactive,13,Colombia
+338,2022-12-30 06:23:54,1,Gachalá,Cundinamarca,active,25,Colombia
+339,2022-10-22 10:45:58,0,Rosas,Cauca,inactive,19,Colombia
+340,2023-02-09 05:46:09,0,El Retén,Magdalena,inactive,47,Colombia
+341,2023-10-10 08:19:16,0,Dagua,Valle del Cauca,inactive,76,Colombia
+342,2023-09-15 08:16:49,1,El Roble,Sucre,active,70,Colombia
+343,2023-06-05 12:59:41,1,Zetaquira,Boyacá,active,15,Colombia
+344,2022-09-15 09:17:38,0,La Estrella,Antioquia,inactive,5,Colombia
+345,2024-01-15 10:58:19,0,Consacá,Nariño,inactive,52,Colombia
+346,2023-04-11 22:22:23,1,Nobsa,Boyacá,active,15,Colombia
+347,2023-09-08 21:07:14,1,Valparaíso,Caquetá,active,18,Colombia
+348,2022-02-19 19:46:34,1,Calarcá,Quindío,active,63,Colombia
+349,2022-07-09 12:05:26,0,Valledupar,Cesar,inactive,20,Colombia
+350,2023-11-09 20:57:36,1,Natagaima,Tolima,active,73,Colombia
+351,2023-01-23 12:15:57,0,La Unión,Nariño,inactive,52,Colombia
+352,2023-08-26 11:59:40,0,Yondó,Antioquia,inactive,5,Colombia
+353,2023-04-21 03:31:34,1,Ráquira,Boyacá,active,15,Colombia
+354,2022-10-29 11:26:25,0,Cocorná,Antioquia,inactive,5,Colombia
+355,2022-02-08 00:10:28,0,El Calvario,Meta,inactive,50,Colombia
+356,2022-02-10 04:08:56,0,Gualmatán,Nariño,inactive,52,Colombia
+357,2023-02-24 18:15:37,0,Corozal,Sucre,inactive,70,Colombia
+358,2023-12-27 01:26:36,0,Hobo,Huila,inactive,41,Colombia
+359,2024-01-15 12:22:25,0,Santa Rosa de Viterbo,Boyacá,inactive,15,Colombia
+360,2023-01-22 16:58:28,1,Tauramena,Casanare,active,85,Colombia
+361,2022-08-27 16:50:35,1,Supía,Caldas,active,17,Colombia
+362,2023-08-25 08:51:54,1,Galán,Santander,active,68,Colombia
+363,2023-03-24 03:04:10,0,Guaitarilla,Nariño,inactive,52,Colombia
+364,2024-01-01 11:21:21,0,Anserma,Caldas,inactive,17,Colombia
+365,2022-02-09 10:31:00,0,Ragonvalia,Norte de Santander,inactive,54,Colombia
+366,2022-07-14 09:17:05,1,Barbacoas,Nariño,active,52,Colombia
+367,2022-10-18 21:59:30,1,Titiribí,Antioquia,active,5,Colombia
+368,2022-10-14 21:23:45,1,Mistrató,Risaralda,active,66,Colombia
+369,2022-01-28 01:15:07,0,San Felipe,Guainía,inactive,94,Colombia
+370,2022-04-02 19:33:44,1,Pueblo Rico,Risaralda,active,66,Colombia
+371,2023-12-19 11:05:48,1,Tinjacá,Boyacá,active,15,Colombia
+372,2022-09-10 09:37:29,1,Versalles,Valle del Cauca,active,76,Colombia
+373,2022-06-11 16:14:08,1,Tauramena,Casanare,active,85,Colombia
+374,2024-01-04 02:53:34,0,Puerto Santander,Norte de Santander,inactive,54,Colombia
+375,2022-05-03 17:38:07,1,Beltrán,Cundinamarca,active,25,Colombia
+376,2024-01-26 18:27:58,1,Cimitarra,Santander,active,68,Colombia
+377,2023-10-19 14:54:27,0,Yalí,Antioquia,inactive,5,Colombia
+378,2023-06-15 16:42:42,1,San Jacinto del Cauca,Bolívar,active,13,Colombia
+379,2022-07-28 12:49:21,0,Yopal,Casanare,inactive,85,Colombia
+380,2023-11-09 00:10:15,1,Monguí,Boyacá,active,15,Colombia
+381,2023-01-01 10:34:44,1,Jerusalén,Cundinamarca,active,25,Colombia
+382,2022-12-26 17:38:13,0,Tipacoque,Boyacá,inactive,15,Colombia
+383,2023-09-03 06:22:37,0,Roncesvalles,Tolima,inactive,73,Colombia
+384,2022-12-07 05:41:56,1,Puerto Nare,Antioquia,active,5,Colombia
+385,2023-11-16 21:37:07,1,Hatillo de Loba,Bolívar,active,13,Colombia
+386,2022-06-19 20:47:55,0,Guavatá,Santander,inactive,68,Colombia
+387,2023-04-18 18:28:37,1,Pensilvania,Caldas,active,17,Colombia
+388,2022-11-12 00:46:43,0,Puracé,Cauca,inactive,19,Colombia
+389,2022-01-08 20:56:30,1,Ráquira,Boyacá,active,15,Colombia
+390,2022-07-17 21:04:33,1,La Playa,Norte de Santander,active,54,Colombia
+391,2023-01-30 16:19:42,1,Valledupar,Cesar,active,20,Colombia
+392,2022-08-17 00:20:58,0,Medina,Cundinamarca,inactive,25,Colombia
+393,2022-12-09 09:36:33,0,Páez,Boyacá,inactive,15,Colombia
+394,2022-07-13 15:23:22,1,Valle de San José,Santander,active,68,Colombia
+395,2022-11-05 18:04:08,0,El Peñón,Santander,inactive,68,Colombia
+396,2022-03-11 07:22:25,0,Argelia,Valle del Cauca,inactive,76,Colombia
+397,2023-02-17 00:50:17,1,Buenavista,Sucre,active,70,Colombia
+398,2022-04-02 10:16:54,0,Villeta,Cundinamarca,inactive,25,Colombia
+399,2022-08-17 04:07:35,0,Coveñas,Sucre,inactive,70,Colombia
+400,2022-10-21 00:12:28,1,Chinchiná,Caldas,active,17,Colombia
+401,2024-01-15 12:31:22,0,Pueblo Bello,Cesar,inactive,20,Colombia
+402,2022-05-27 04:09:59,0,La Virginia,Risaralda,inactive,66,Colombia
+403,2022-03-17 05:22:17,0,Floridablanca,Santander,inactive,68,Colombia
+404,2023-11-08 12:57:41,0,Gamarra,Cesar,inactive,20,Colombia
+405,2023-09-03 06:45:42,1,San Pablo,Nariño,active,52,Colombia
+406,2023-04-05 06:49:28,0,Santa Sofía,Boyacá,inactive,15,Colombia
+407,2022-05-09 01:11:41,1,Villa Caro,Norte de Santander,active,54,Colombia
+408,2023-10-01 14:42:59,0,Arboledas,Norte de Santander,inactive,54,Colombia
+409,2022-11-28 05:20:33,1,Tenza,Boyacá,active,15,Colombia
+410,2022-01-15 23:07:54,0,Clemencia,Bolívar,inactive,13,Colombia
+411,2023-08-19 08:45:57,1,Fortul,Arauca,active,81,Colombia
+412,2023-03-28 11:52:22,0,Topaipí,Cundinamarca,inactive,25,Colombia
+413,2022-11-26 03:22:19,0,Rioblanco,Tolima,inactive,73,Colombia
+414,2022-02-05 23:34:23,0,Aguada,Santander,inactive,68,Colombia
+415,2022-06-22 03:13:40,0,Purificación,Tolima,inactive,73,Colombia
+416,2023-05-02 09:21:28,0,Fonseca,La Guajira,inactive,44,Colombia
+417,2022-03-02 11:12:40,1,Gómez Plata,Antioquia,active,5,Colombia
+418,2023-01-13 21:45:55,1,Gamarra,Cesar,active,20,Colombia
+419,2023-08-12 04:14:59,0,Granada,Meta,inactive,50,Colombia
+420,2022-04-11 04:33:29,1,Paipa,Boyacá,active,15,Colombia
+421,2022-08-29 21:43:14,0,Busbanzá,Boyacá,inactive,15,Colombia
+422,2022-10-21 01:13:34,0,Campamento,Antioquia,inactive,5,Colombia
+423,2022-08-08 08:11:42,0,Socha,Boyacá,inactive,15,Colombia
+424,2022-06-17 06:58:59,0,Versalles,Valle del Cauca,inactive,76,Colombia
+425,2023-07-31 14:10:24,0,Betania,Antioquia,inactive,5,Colombia
+426,2023-03-21 13:54:22,0,Guacarí,Valle del Cauca,inactive,76,Colombia
+427,2022-03-29 23:49:57,1,Santander de Quilichao,Cauca,active,19,Colombia
+428,2022-02-01 07:04:05,0,El Retorno,Guaviare,inactive,95,Colombia
+429,2022-08-17 04:19:15,1,Unión Panamericana,Chocó,active,27,Colombia
+430,2023-08-29 16:17:48,0,Marinilla,Antioquia,inactive,5,Colombia
+431,2023-12-22 18:09:09,1,La Guadalupe,Guainía,active,94,Colombia
+432,2022-01-16 02:24:55,1,Puerto Rico,Caquetá,active,18,Colombia
+433,2023-10-04 18:29:49,1,Guachené,Cauca,active,19,Colombia
+434,2024-01-27 10:38:41,1,Aldana,Nariño,active,52,Colombia
+435,2023-03-29 18:45:44,0,El Dorado,Meta,inactive,50,Colombia
+436,2023-01-06 07:02:37,0,San Bernardo,Cundinamarca,inactive,25,Colombia
+437,2023-06-03 22:53:00,0,Tutazá,Boyacá,inactive,15,Colombia
+438,2022-03-16 13:55:46,0,Santa Rosa,Cauca,inactive,19,Colombia
+439,2023-02-12 15:32:44,1,Rovira,Tolima,active,73,Colombia
+440,2022-02-09 02:56:26,1,Labranzagrande,Boyacá,active,15,Colombia
+441,2023-10-05 01:38:06,0,Zipacón,Cundinamarca,inactive,25,Colombia
+442,2022-10-29 19:51:09,0,El Espino,Boyacá,inactive,15,Colombia
+443,2022-10-03 03:59:29,0,Majagual,Sucre,inactive,70,Colombia
+444,2022-09-08 03:09:25,0,Toledo,Norte de Santander,inactive,54,Colombia
+445,2023-08-19 06:26:52,0,Pandi,Cundinamarca,inactive,25,Colombia
+446,2023-03-12 13:32:26,1,San Marcos,Sucre,active,70,Colombia
+447,2022-12-29 17:48:06,1,Nimaima,Cundinamarca,active,25,Colombia
+448,2022-04-22 10:41:44,1,Páramo,Santander,active,68,Colombia
+449,2022-03-16 10:19:19,1,Puebloviejo,Magdalena,active,47,Colombia
+450,2023-11-17 05:30:47,1,Junín,Cundinamarca,active,25,Colombia
+451,2023-09-19 05:46:05,1,Susacón,Boyacá,active,15,Colombia
+452,2023-03-27 02:10:55,1,Saladoblanco,Huila,active,41,Colombia
+453,2022-01-21 05:12:36,0,Nechí,Antioquia,inactive,5,Colombia
+454,2023-02-16 13:23:06,0,San Calixto,Norte de Santander,inactive,54,Colombia
+455,2023-05-31 00:17:48,1,Tinjacá,Boyacá,active,15,Colombia
+456,2023-05-25 09:54:31,1,Jamundí,Valle del Cauca,active,76,Colombia
+457,2024-01-13 11:55:33,0,Guacarí,Valle del Cauca,inactive,76,Colombia
+458,2022-08-29 13:34:19,1,López de Micay,Cauca,active,19,Colombia
+459,2022-01-29 18:26:52,1,Venecia,Cundinamarca,active,25,Colombia
+460,2023-10-07 16:26:48,1,Palmar,Santander,active,68,Colombia
+461,2022-12-02 13:54:45,0,Puebloviejo,Magdalena,inactive,47,Colombia
+462,2022-08-15 23:03:40,0,Nóvita,Chocó,inactive,27,Colombia
+463,2023-11-09 10:00:29,0,Buenos Aires,Cauca,inactive,19,Colombia
+464,2023-06-04 09:00:47,1,Alpujarra,Tolima,active,73,Colombia
+465,2022-03-09 17:49:37,1,Circasia,Quindío,active,63,Colombia
+466,2022-11-20 02:29:14,1,Retiro,Antioquia,active,5,Colombia
+467,2022-02-12 02:35:09,1,Ulloa,Valle del Cauca,active,76,Colombia
+468,2022-07-25 17:29:04,0,San Agustín,Huila,inactive,41,Colombia
+469,2022-09-29 01:54:41,0,Cepitá,Santander,inactive,68,Colombia
+470,2022-11-17 00:54:12,1,Chalán,Sucre,active,70,Colombia
+471,2022-11-08 22:04:44,1,Chigorodó,Antioquia,active,5,Colombia
+472,2022-01-13 11:09:20,1,Hato,Santander,active,68,Colombia
+473,2022-11-19 12:16:07,0,Argelia,Antioquia,inactive,5,Colombia
+474,2023-06-28 01:18:13,1,Pijiño del Carmen,Magdalena,active,47,Colombia
+475,2023-12-28 07:44:13,1,Chipatá,Santander,active,68,Colombia
+476,2023-03-18 11:47:36,1,Venecia,Cundinamarca,active,25,Colombia
+477,2023-12-15 11:28:37,0,La Uvita,Boyacá,inactive,15,Colombia
+478,2023-09-11 13:56:05,1,Papunahua,Vaupés,active,97,Colombia
+479,2023-12-18 05:14:56,0,Fuente de Oro,Meta,inactive,50,Colombia
+480,2022-03-05 08:46:46,0,Cajicá,Cundinamarca,inactive,25,Colombia
+481,2022-07-02 16:55:48,1,Tesalia,Huila,active,41,Colombia
+482,2023-09-07 09:28:35,1,Luruaco,Atlántico,active,8,Colombia
+483,2024-01-07 08:52:38,0,Zaragoza,Antioquia,inactive,5,Colombia
+484,2023-03-05 14:31:35,1,Ospina,Nariño,active,52,Colombia
+485,2023-01-05 17:51:27,0,Andes,Antioquia,inactive,5,Colombia
+486,2022-04-15 19:29:44,1,Aipe,Huila,active,41,Colombia
+487,2022-09-09 13:34:27,0,Tenjo,Cundinamarca,inactive,25,Colombia
+488,2023-05-23 22:00:19,1,Roncesvalles,Tolima,active,73,Colombia
+489,2022-10-24 15:35:45,0,Arbeláez,Cundinamarca,inactive,25,Colombia
+490,2023-10-20 05:15:11,1,Dagua,Valle del Cauca,active,76,Colombia
+491,2023-12-14 13:46:17,0,San Francisco,Cundinamarca,inactive,25,Colombia
+492,2023-03-12 18:05:38,0,San Juan de Rioseco,Cundinamarca,inactive,25,Colombia
+493,2022-06-30 11:07:58,1,Turbaná,Bolívar,active,13,Colombia
+494,2022-07-13 18:44:05,0,San Joaquín,Santander,inactive,68,Colombia
+495,2023-03-03 15:40:30,1,Miraflores,Boyacá,active,15,Colombia
+496,2023-04-13 12:26:24,1,Orito,Putumayo,active,86,Colombia
+497,2022-02-15 16:09:45,1,San Juan Nepomuceno,Bolívar,active,13,Colombia
+498,2023-05-10 12:12:45,0,Cértegui,Chocó,inactive,27,Colombia
+499,2023-03-31 19:32:44,0,San Sebastián de Mariquita,Tolima,inactive,73,Colombia
+500,2022-09-11 04:51:56,1,Medina,Cundinamarca,active,25,Colombia
+501,2023-08-16 02:40:13,1,Rionegro,Santander,active,68,Colombia
+502,2022-08-01 04:31:10,0,Puerto Nare,Antioquia,inactive,5,Colombia
+503,2022-01-09 08:12:27,1,Íquira,Huila,active,41,Colombia
+504,2022-12-15 19:21:13,0,Sopó,Cundinamarca,inactive,25,Colombia
+505,2023-03-28 06:35:13,0,Barranco de Loba,Bolívar,inactive,13,Colombia
+506,2023-06-10 15:39:55,0,Río Iró,Chocó,inactive,27,Colombia
+507,2022-10-02 20:24:08,1,Leiva,Nariño,active,52,Colombia
+508,2022-10-31 18:56:02,0,Ubaque,Cundinamarca,inactive,25,Colombia
+509,2023-02-23 07:29:09,1,Guayatá,Boyacá,active,15,Colombia
+510,2022-12-30 07:02:39,0,San Marcos,Sucre,inactive,70,Colombia
+511,2023-05-31 03:33:16,0,Leiva,Nariño,inactive,52,Colombia
+512,2022-04-20 07:10:55,0,Puerto Guzmán,Putumayo,inactive,86,Colombia
+513,2022-04-10 16:54:54,1,Paz de Ariporo,Casanare,active,85,Colombia
+514,2022-10-11 10:21:00,1,Moñitos,Córdoba,active,23,Colombia
+515,2023-07-30 15:44:40,0,El Carmen de Viboral,Antioquia,inactive,5,Colombia
+516,2023-07-26 23:33:08,0,Herrán,Norte de Santander,inactive,54,Colombia
+517,2023-03-24 09:26:24,1,Betéitiva,Boyacá,active,15,Colombia
+518,2022-04-04 17:32:31,0,La Salina,Casanare,inactive,85,Colombia
+519,2022-11-02 05:23:22,1,Puerto López,Meta,active,50,Colombia
+520,2022-01-02 01:23:55,0,Palestina,Caldas,inactive,17,Colombia
+521,2024-01-20 00:50:57,0,Cepitá,Santander,inactive,68,Colombia
+522,2022-05-27 21:41:01,0,Caimito,Sucre,inactive,70,Colombia
+523,2023-04-25 13:24:49,0,El Águila,Valle del Cauca,inactive,76,Colombia
+524,2023-02-27 04:20:05,1,Tocaima,Cundinamarca,active,25,Colombia
+525,2023-07-04 01:35:52,1,Norcasia,Caldas,active,17,Colombia
+526,2022-02-05 09:24:18,1,Argelia,Cauca,active,19,Colombia
+527,2023-07-29 07:44:27,1,El Dorado,Meta,active,50,Colombia
+528,2023-06-13 18:42:22,1,Choachí,Cundinamarca,active,25,Colombia
+529,2023-12-13 12:55:27,0,Nueva Granada,Magdalena,inactive,47,Colombia
+530,2022-01-01 12:26:03,0,Guaitarilla,Nariño,inactive,52,Colombia
+531,2023-09-20 14:05:19,1,Cubarral,Meta,active,50,Colombia
+532,2022-03-06 12:04:33,0,El Copey,Cesar,inactive,20,Colombia
+533,2022-04-08 06:01:45,1,Pasto,Nariño,active,52,Colombia
+534,2023-05-31 05:44:13,0,Tununguá,Boyacá,inactive,15,Colombia
+535,2022-07-03 04:10:40,0,Morales,Bolívar,inactive,13,Colombia
+536,2022-06-10 16:15:15,0,Galeras,Sucre,inactive,70,Colombia
+537,2022-10-21 11:25:40,0,Viotá,Cundinamarca,inactive,25,Colombia
+538,2022-05-21 22:11:20,1,Toledo,Antioquia,active,5,Colombia
+539,2023-12-16 05:10:45,0,Albán,Cundinamarca,inactive,25,Colombia
+540,2022-11-16 14:12:06,1,La Vega,Cauca,active,19,Colombia
+541,2023-02-25 14:17:13,0,Betulia,Santander,inactive,68,Colombia
+542,2023-08-23 14:07:45,1,San Andrés,"San Andrés, Providencia y Santa Catalina",active,88,Colombia
+543,2023-05-02 22:55:46,1,Jerusalén,Cundinamarca,active,25,Colombia
+544,2022-05-06 22:00:18,0,Río Iró,Chocó,inactive,27,Colombia
+545,2023-09-24 22:52:50,0,Rovira,Tolima,inactive,73,Colombia
+546,2022-06-04 19:47:50,1,Polonuevo,Atlántico,active,8,Colombia
+547,2023-08-01 02:29:25,1,Algeciras,Huila,active,41,Colombia
+548,2022-12-10 08:37:35,1,Pachavita,Boyacá,active,15,Colombia
+549,2023-05-16 02:57:02,1,Chinácota,Norte de Santander,active,54,Colombia
+550,2023-04-26 02:10:12,1,Chimichagua,Cesar,active,20,Colombia
+551,2023-10-19 17:41:57,0,Icononzo,Tolima,inactive,73,Colombia
+552,2023-03-09 08:16:33,0,Caloto,Cauca,inactive,19,Colombia
+553,2023-11-03 09:15:53,1,Guapi,Cauca,active,19,Colombia
+554,2023-05-22 04:06:52,0,Turmequé,Boyacá,inactive,15,Colombia
+555,2023-06-30 12:08:25,0,Caldono,Cauca,inactive,19,Colombia
+556,2023-07-15 06:03:33,0,Salento,Quindío,inactive,63,Colombia
+557,2024-01-13 02:17:50,1,San Marcos,Sucre,active,70,Colombia
+558,2023-08-15 04:53:40,1,Santa Marta,Magdalena,active,47,Colombia
+559,2022-09-16 22:57:43,1,Dosquebradas,Risaralda,active,66,Colombia
+560,2022-06-12 00:57:12,1,San Francisco,Putumayo,active,86,Colombia
+561,2022-05-23 22:37:38,1,Fortul,Arauca,active,81,Colombia
+562,2023-10-25 08:44:05,1,Puerto Triunfo,Antioquia,active,5,Colombia
+563,2022-03-04 02:28:03,1,Cajamarca,Tolima,active,73,Colombia
+564,2023-01-01 22:04:46,0,Marulanda,Caldas,inactive,17,Colombia
+565,2022-10-09 05:41:34,1,Córdoba,Nariño,active,52,Colombia
+566,2022-06-15 20:08:20,1,San Miguel,Putumayo,active,86,Colombia
+567,2023-10-09 15:19:45,1,Santa Rosalía,Vichada,active,99,Colombia
+568,2022-02-10 16:42:55,1,Villanueva,La Guajira,active,44,Colombia
+569,2023-02-15 19:34:25,0,El Paso,Cesar,inactive,20,Colombia
+570,2024-01-18 15:10:09,0,Cumbal,Nariño,inactive,52,Colombia
+571,2022-11-04 21:19:33,1,Arauca,Arauca,active,81,Colombia
+572,2022-05-06 08:20:47,1,San Fernando,Bolívar,active,13,Colombia
+573,2022-06-14 05:17:27,1,Murillo,Tolima,active,73,Colombia
+574,2022-02-02 20:10:21,1,Algeciras,Huila,active,41,Colombia
+575,2023-03-14 08:23:41,0,Chitagá,Norte de Santander,inactive,54,Colombia
+576,2023-05-02 14:23:25,1,Junín,Cundinamarca,active,25,Colombia
+577,2022-06-11 23:26:00,0,Entrerríos,Antioquia,inactive,5,Colombia
+578,2022-08-27 20:50:43,0,San Gil,Santander,inactive,68,Colombia
+579,2023-11-19 12:21:43,0,Líbano,Tolima,inactive,73,Colombia
+580,2023-08-17 05:04:10,0,Acandí,Chocó,inactive,27,Colombia
+581,2023-10-15 09:12:07,0,San Antonio,Tolima,inactive,73,Colombia
+582,2023-01-29 10:41:41,0,Mogotes,Santander,inactive,68,Colombia
+583,2022-02-27 03:44:21,0,La Playa,Norte de Santander,inactive,54,Colombia
+584,2023-03-26 07:03:12,1,Concepción,Santander,active,68,Colombia
+585,2022-10-22 09:14:25,1,Soracá,Boyacá,active,15,Colombia
+586,2023-02-20 16:59:48,1,Necoclí,Antioquia,active,5,Colombia
+587,2022-08-14 18:44:35,1,Florencia,Cauca,active,19,Colombia
+588,2023-05-10 21:41:19,1,Cáchira,Norte de Santander,active,54,Colombia
+589,2022-06-14 14:20:29,0,Puerto Parra,Santander,inactive,68,Colombia
+590,2022-09-27 14:19:09,1,Puerto Boyacá,Boyacá,active,15,Colombia
+591,2022-08-14 16:44:34,0,Iza,Boyacá,inactive,15,Colombia
+592,2023-10-08 21:32:42,0,Tausa,Cundinamarca,inactive,25,Colombia
+593,2023-06-07 19:47:47,0,Chocontá,Cundinamarca,inactive,25,Colombia
+594,2023-06-28 17:28:40,1,Guadalupe,Santander,active,68,Colombia
+595,2022-11-06 23:04:03,1,Puerto Salgar,Cundinamarca,active,25,Colombia
+596,2023-09-18 14:54:08,0,Suratá,Santander,inactive,68,Colombia
+597,2022-08-01 14:50:40,1,Santa Rosa,Bolívar,active,13,Colombia
+598,2022-06-12 22:45:53,0,Vegachí,Antioquia,inactive,5,Colombia
+599,2022-06-16 07:43:59,0,Zarzal,Valle del Cauca,inactive,76,Colombia
+600,2023-04-27 12:57:21,1,Ansermanuevo,Valle del Cauca,active,76,Colombia
+601,2022-09-29 06:37:45,1,Tangua,Nariño,active,52,Colombia
+602,2023-05-07 11:20:25,0,Contratación,Santander,inactive,68,Colombia
+603,2022-09-05 04:35:21,0,Hatonuevo,La Guajira,inactive,44,Colombia
+604,2023-05-14 16:48:43,1,Vetas,Santander,active,68,Colombia
+605,2023-05-01 17:35:07,1,Pijiño del Carmen,Magdalena,active,47,Colombia
+606,2023-04-02 06:24:04,0,Génova,Quindío,inactive,63,Colombia
+607,2022-08-30 21:46:36,0,Tesalia,Huila,inactive,41,Colombia
+608,2023-11-23 23:43:43,0,Aldana,Nariño,inactive,52,Colombia
+609,2022-11-14 23:19:13,1,El Encanto,Amazonas,active,91,Colombia
+610,2023-04-02 11:53:20,0,Jerusalén,Cundinamarca,inactive,25,Colombia
+611,2023-02-25 23:59:27,1,Ricaurte,Nariño,active,52,Colombia
+612,2022-03-27 18:00:41,0,Puracé,Cauca,inactive,19,Colombia
+613,2023-06-17 05:48:08,0,Sutamarchán,Boyacá,inactive,15,Colombia
+614,2022-12-18 02:57:54,1,Sabanalarga,Casanare,active,85,Colombia
+615,2022-07-26 04:46:32,0,Venecia,Cundinamarca,inactive,25,Colombia
+616,2022-03-03 10:05:47,0,Timbío,Cauca,inactive,19,Colombia
+617,2022-10-17 13:18:02,1,Floresta,Boyacá,active,15,Colombia
+618,2022-03-19 13:21:06,1,Solita,Caquetá,active,18,Colombia
+619,2022-09-24 12:31:22,0,Betulia,Antioquia,inactive,5,Colombia
+620,2022-09-05 16:05:56,1,Puracé,Cauca,active,19,Colombia
+621,2022-09-22 08:47:59,0,Lourdes,Norte de Santander,inactive,54,Colombia
+622,2023-06-03 10:22:26,0,Maicao,La Guajira,inactive,44,Colombia
+623,2023-12-08 13:05:53,0,La Uvita,Boyacá,inactive,15,Colombia
+624,2022-08-02 04:44:31,0,Granada,Meta,inactive,50,Colombia
+625,2023-10-17 21:14:08,0,Chachagüí,Nariño,inactive,52,Colombia
+626,2023-01-18 12:02:48,0,Contadero,Nariño,inactive,52,Colombia
+627,2022-05-01 01:19:15,1,Tutazá,Boyacá,active,15,Colombia
+628,2023-09-18 16:04:52,1,Versalles,Valle del Cauca,active,76,Colombia
+629,2023-11-03 22:47:26,1,Confines,Santander,active,68,Colombia
+630,2022-08-27 01:07:03,1,Abejorral,Antioquia,active,5,Colombia
+631,2022-05-29 03:36:57,0,Berbeo,Boyacá,inactive,15,Colombia
+632,2023-11-09 10:01:18,0,Sabanalarga,Atlántico,inactive,8,Colombia
+633,2023-12-07 08:06:10,1,Sipí,Chocó,active,27,Colombia
+634,2023-07-01 08:00:00,0,San Zenón,Magdalena,inactive,47,Colombia
+635,2023-01-13 15:28:44,0,Macanal,Boyacá,inactive,15,Colombia
+636,2022-12-07 13:37:28,0,Río Viejo,Bolívar,inactive,13,Colombia
+637,2023-10-17 04:46:53,1,Filadelfia,Caldas,active,17,Colombia
+638,2023-11-15 19:43:37,1,Los Patios,Norte de Santander,active,54,Colombia
+639,2023-11-08 07:30:05,1,Calima,Valle del Cauca,active,76,Colombia
+640,2022-07-23 08:39:01,1,Puerto Berrío,Antioquia,active,5,Colombia
+641,2022-10-25 02:42:31,0,Guaranda,Sucre,inactive,70,Colombia
+642,2022-01-27 19:16:34,0,Cota,Cundinamarca,inactive,25,Colombia
+643,2023-01-21 19:08:02,0,El Carmen de Viboral,Antioquia,inactive,5,Colombia
+644,2023-11-14 06:08:42,1,Palmar,Santander,active,68,Colombia
+645,2022-07-07 13:33:09,0,Argelia,Antioquia,inactive,5,Colombia
+646,2022-09-11 04:07:44,0,Macaravita,Santander,inactive,68,Colombia
+647,2022-07-20 11:20:49,0,Acevedo,Huila,inactive,41,Colombia
+648,2023-09-15 04:09:47,0,Carolina,Antioquia,inactive,5,Colombia
+649,2022-08-26 22:56:02,1,Agua de Dios,Cundinamarca,active,25,Colombia
+650,2022-08-21 11:43:15,1,Charta,Santander,active,68,Colombia
+651,2022-11-04 14:44:35,1,Chocontá,Cundinamarca,active,25,Colombia
+652,2022-12-07 19:46:09,1,Marsella,Risaralda,active,66,Colombia
+653,2022-11-24 21:52:36,1,Dibulla,La Guajira,active,44,Colombia
+654,2022-10-11 16:30:02,0,Cuaspud Carlosama,Nariño,inactive,52,Colombia
+655,2022-06-21 06:23:00,1,Moniquirá,Boyacá,active,15,Colombia
+656,2022-12-31 03:32:50,0,Filandia,Quindío,inactive,63,Colombia
+657,2022-05-25 20:22:52,1,Gámeza,Boyacá,active,15,Colombia
+658,2022-07-29 08:32:10,1,Sáchica,Boyacá,active,15,Colombia
+659,2022-12-27 11:34:37,1,Coromoro,Santander,active,68,Colombia
+660,2024-01-04 09:22:39,1,Concordia,Magdalena,active,47,Colombia
+661,2022-05-11 06:33:58,1,Guamal,Magdalena,active,47,Colombia
+662,2023-09-22 19:10:35,1,Colosó,Sucre,active,70,Colombia
+663,2024-01-05 16:49:39,0,Aguada,Santander,inactive,68,Colombia
+664,2023-05-31 13:58:11,0,San Pedro de Cartago,Nariño,inactive,52,Colombia
+665,2022-05-16 08:38:14,1,Santa María,Huila,active,41,Colombia
+666,2022-12-30 10:14:42,0,Mosquera,Cundinamarca,inactive,25,Colombia
+667,2023-07-03 22:59:28,0,Potosí,Nariño,inactive,52,Colombia
+668,2022-04-22 09:56:44,1,Aguachica,Cesar,active,20,Colombia
+669,2023-07-04 11:45:49,1,Gómez Plata,Antioquia,active,5,Colombia
+670,2023-01-24 12:55:15,0,Pandi,Cundinamarca,inactive,25,Colombia
+671,2023-04-25 06:18:51,1,Útica,Cundinamarca,active,25,Colombia
+672,2022-10-17 03:47:40,1,El Banco,Magdalena,active,47,Colombia
+673,2023-12-03 07:05:14,0,Yavaraté,Vaupés,inactive,97,Colombia
+674,2022-04-10 04:07:14,0,Capitanejo,Santander,inactive,68,Colombia
+675,2023-01-30 16:55:27,0,Patía,Cauca,inactive,19,Colombia
+676,2023-08-09 01:20:36,0,San Luis de Gaceno,Boyacá,inactive,15,Colombia
+677,2022-08-24 12:11:40,1,Chipaque,Cundinamarca,active,25,Colombia
+678,2023-05-24 18:06:56,1,Pácora,Caldas,active,17,Colombia
+679,2023-08-03 06:17:57,1,Ciudad Bolívar,Antioquia,active,5,Colombia
+680,2022-11-17 07:37:30,1,Ariguaní,Magdalena,active,47,Colombia
+681,2023-02-12 04:49:17,1,Sutatausa,Cundinamarca,active,25,Colombia
+682,2022-03-01 18:11:54,1,Fonseca,La Guajira,active,44,Colombia
+683,2023-01-06 13:51:07,1,Jardín,Antioquia,active,5,Colombia
+684,2023-03-04 22:50:59,1,González,Cesar,active,20,Colombia
+685,2023-02-02 20:51:03,1,Galán,Santander,active,68,Colombia
+686,2022-09-02 12:46:36,1,Montecristo,Bolívar,active,13,Colombia
+687,2023-04-10 14:26:53,0,San Calixto,Norte de Santander,inactive,54,Colombia
+688,2022-06-07 11:12:53,0,Aguachica,Cesar,inactive,20,Colombia
+689,2023-07-01 01:40:08,0,San Francisco,Cundinamarca,inactive,25,Colombia
+690,2022-09-12 12:51:14,0,Carmen de Carupa,Cundinamarca,inactive,25,Colombia
+691,2023-03-11 08:24:32,0,Palmito,Sucre,inactive,70,Colombia
+692,2023-12-15 10:50:13,0,Villagarzón,Putumayo,inactive,86,Colombia
+693,2022-11-10 02:03:47,1,Úmbita,Boyacá,active,15,Colombia
+694,2023-04-13 21:33:04,1,Cañasgordas,Antioquia,active,5,Colombia
+695,2023-01-02 00:58:10,0,El Playón,Santander,inactive,68,Colombia
+696,2022-01-09 06:26:44,0,Viotá,Cundinamarca,inactive,25,Colombia
+697,2023-02-20 13:48:31,1,Flandes,Tolima,active,73,Colombia
+698,2022-04-12 17:59:50,1,Andes,Antioquia,active,5,Colombia
+699,2024-01-12 22:20:39,1,Suárez,Tolima,active,73,Colombia
+700,2023-04-13 13:04:12,1,Malambo,Atlántico,active,8,Colombia
+701,2022-06-15 20:13:44,1,Gigante,Huila,active,41,Colombia
+702,2022-10-18 08:55:48,0,Algeciras,Huila,inactive,41,Colombia
+703,2024-01-19 07:02:01,1,Agustín Codazzi,Cesar,active,20,Colombia
+704,2023-11-29 11:22:17,1,Chinácota,Norte de Santander,active,54,Colombia
+705,2024-01-08 20:08:46,0,Sutatenza,Boyacá,inactive,15,Colombia
+706,2023-12-10 13:25:28,0,Muzo,Boyacá,inactive,15,Colombia
+707,2023-05-08 06:27:39,1,San Jacinto,Bolívar,active,13,Colombia
+708,2022-05-16 06:34:29,1,Floridablanca,Santander,active,68,Colombia
+709,2023-04-10 11:09:07,0,Anapoima,Cundinamarca,inactive,25,Colombia
+710,2023-03-04 14:31:40,1,Guachetá,Cundinamarca,active,25,Colombia
+711,2023-01-21 06:59:37,0,Ráquira,Boyacá,inactive,15,Colombia
+712,2022-12-13 21:02:05,0,El Tambo,Nariño,inactive,52,Colombia
+713,2023-08-18 01:39:49,0,Inzá,Cauca,inactive,19,Colombia
+714,2022-09-09 14:05:52,0,Samacá,Boyacá,inactive,15,Colombia
+715,2022-01-30 09:20:10,1,San Andrés de Cuerquía,Antioquia,active,5,Colombia
+716,2023-07-28 16:50:35,1,Chita,Boyacá,active,15,Colombia
+717,2023-01-19 04:20:40,0,Sevilla,Valle del Cauca,inactive,76,Colombia
+718,2022-12-15 13:09:41,1,Puebloviejo,Magdalena,active,47,Colombia
+719,2023-02-25 12:10:38,1,Vijes,Valle del Cauca,active,76,Colombia
+720,2022-08-30 03:36:53,1,Titiribí,Antioquia,active,5,Colombia
+721,2023-11-29 00:37:03,0,Amalfi,Antioquia,inactive,5,Colombia
+722,2022-11-25 03:52:48,1,Solano,Caquetá,active,18,Colombia
+723,2022-01-09 17:20:20,1,Albán,Nariño,active,52,Colombia
+724,2024-01-17 01:26:44,0,Florencia,Caquetá,inactive,18,Colombia
+725,2022-01-20 17:40:32,0,Lourdes,Norte de Santander,inactive,54,Colombia
+726,2022-02-24 22:51:43,1,Río Iró,Chocó,active,27,Colombia
+727,2022-10-17 18:06:14,0,Mutiscua,Norte de Santander,inactive,54,Colombia
+728,2023-01-15 18:30:41,1,La Virginia,Risaralda,active,66,Colombia
+729,2023-01-20 12:10:05,0,Villa de Leyva,Boyacá,inactive,15,Colombia
+730,2023-03-24 16:40:42,1,Palmas del Socorro,Santander,active,68,Colombia
+731,2022-08-10 05:54:55,0,Pivijay,Magdalena,inactive,47,Colombia
+732,2023-03-11 14:55:47,1,Une,Cundinamarca,active,25,Colombia
+733,2022-01-25 11:11:37,0,Silos,Norte de Santander,inactive,54,Colombia
+734,2022-08-26 23:49:26,1,Belén,Boyacá,active,15,Colombia
+735,2023-08-01 14:00:42,0,Anorí,Antioquia,inactive,5,Colombia
+736,2023-04-16 14:26:09,1,Pajarito,Boyacá,active,15,Colombia
+737,2022-05-07 14:08:10,1,El Cantón del San Pablo,Chocó,active,27,Colombia
+738,2022-09-28 06:24:17,0,Santa Rosa del Sur,Bolívar,inactive,13,Colombia
+739,2022-11-10 21:29:49,0,Guatapé,Antioquia,inactive,5,Colombia
+740,2023-08-02 03:23:03,1,Fusagasugá,Cundinamarca,active,25,Colombia
+741,2023-03-18 16:31:54,1,Aguada,Santander,active,68,Colombia
+742,2022-12-07 03:13:16,0,Chivatá,Boyacá,inactive,15,Colombia
+743,2023-10-11 13:29:32,0,Chiquinquirá,Boyacá,inactive,15,Colombia
+744,2022-02-05 11:32:51,1,Rondón,Boyacá,active,15,Colombia
+745,2023-02-12 18:44:51,0,La Vega,Cauca,inactive,19,Colombia
+746,2022-10-22 03:56:37,1,Yondó,Antioquia,active,5,Colombia
+747,2023-01-17 22:43:55,1,Nilo,Cundinamarca,active,25,Colombia
+748,2022-11-24 03:45:54,0,Puerto Santander,Amazonas,inactive,91,Colombia
+749,2023-03-02 14:21:19,0,Enciso,Santander,inactive,68,Colombia
+750,2023-08-26 06:16:28,0,Santa Catalina,Bolívar,inactive,13,Colombia
+751,2023-04-14 07:38:09,0,Cértegui,Chocó,inactive,27,Colombia
+752,2022-01-04 03:43:18,0,Concepción,Antioquia,inactive,5,Colombia
+753,2023-08-12 19:26:36,0,San Cayetano,Norte de Santander,inactive,54,Colombia
+754,2023-12-19 09:12:27,0,Acevedo,Huila,inactive,41,Colombia
+755,2024-01-16 08:29:23,0,Nobsa,Boyacá,inactive,15,Colombia
+756,2023-05-03 16:58:54,1,Altamira,Huila,active,41,Colombia
+757,2022-09-10 15:25:04,0,Vijes,Valle del Cauca,inactive,76,Colombia
+758,2022-02-28 04:30:40,1,San José de Cúcuta,Norte de Santander,active,54,Colombia
+759,2023-07-28 03:36:43,0,Solano,Caquetá,inactive,18,Colombia
+760,2023-03-14 16:52:29,0,Papunahua,Vaupés,inactive,97,Colombia
+761,2022-07-21 14:42:06,1,Vigía del Fuerte,Antioquia,active,5,Colombia
+762,2022-07-07 10:19:21,0,El Rosal,Cundinamarca,inactive,25,Colombia
+763,2022-06-25 03:52:13,1,La Belleza,Santander,active,68,Colombia
+764,2023-09-18 22:11:56,0,San Calixto,Norte de Santander,inactive,54,Colombia
+765,2023-10-17 10:19:14,1,Lebrija,Santander,active,68,Colombia
+766,2022-05-15 02:58:34,0,Cerrito,Santander,inactive,68,Colombia
+767,2023-11-21 05:26:45,1,Carepa,Antioquia,active,5,Colombia
+768,2024-01-13 13:08:54,1,Boavita,Boyacá,active,15,Colombia
+769,2023-10-02 16:21:20,0,La Pintada,Antioquia,inactive,5,Colombia
+770,2022-06-27 21:56:12,0,Barrancabermeja,Santander,inactive,68,Colombia
+771,2024-01-26 04:03:29,1,Silvia,Cauca,active,19,Colombia
+772,2022-09-19 08:00:09,1,Nimaima,Cundinamarca,active,25,Colombia
+773,2023-03-30 04:19:10,0,Neira,Caldas,inactive,17,Colombia
+774,2022-02-11 12:44:00,0,San Pelayo,Córdoba,inactive,23,Colombia
+775,2022-12-26 05:49:32,1,Muzo,Boyacá,active,15,Colombia
+776,2022-05-10 11:52:11,1,Gámeza,Boyacá,active,15,Colombia
+777,2023-10-03 05:12:15,1,Tibú,Norte de Santander,active,54,Colombia
+778,2022-03-25 22:14:08,0,El Cairo,Valle del Cauca,inactive,76,Colombia
+779,2023-05-07 22:49:28,1,Taraira,Vaupés,active,97,Colombia
+780,2022-10-06 19:27:26,1,Cajicá,Cundinamarca,active,25,Colombia
+781,2022-02-24 10:57:20,1,Sucre,Santander,active,68,Colombia
+782,2023-11-22 20:09:20,0,Soledad,Atlántico,inactive,8,Colombia
+783,2023-08-20 16:46:13,0,Elías,Huila,inactive,41,Colombia
+784,2022-09-22 03:24:18,0,Necoclí,Antioquia,inactive,5,Colombia
+785,2023-06-11 10:04:42,1,San Pedro,Valle del Cauca,active,76,Colombia
+786,2023-02-07 07:05:48,1,Piamonte,Cauca,active,19,Colombia
+787,2023-10-10 09:44:35,0,Bucaramanga,Santander,inactive,68,Colombia
+788,2022-05-27 18:33:48,0,Sopó,Cundinamarca,inactive,25,Colombia
+789,2023-07-25 03:14:52,0,Guacamayas,Boyacá,inactive,15,Colombia
+790,2022-06-16 23:40:59,0,Los Santos,Santander,inactive,68,Colombia
+791,2023-08-08 16:00:54,0,Alejandría,Antioquia,inactive,5,Colombia
+792,2022-05-23 05:28:44,0,Guacamayas,Boyacá,inactive,15,Colombia
+793,2022-04-16 13:39:27,0,San Calixto,Norte de Santander,inactive,54,Colombia
+794,2023-09-26 00:08:57,0,Francisco Pizarro,Nariño,inactive,52,Colombia
+795,2022-03-21 20:22:54,1,La Florida,Nariño,active,52,Colombia
+796,2022-01-13 12:18:57,0,Corrales,Boyacá,inactive,15,Colombia
+797,2022-09-09 20:33:10,0,San Juan de Arama,Meta,inactive,50,Colombia
+798,2023-05-25 15:55:03,0,Valle de San Juan,Tolima,inactive,73,Colombia
+799,2022-01-29 00:16:09,0,Cogua,Cundinamarca,inactive,25,Colombia
+800,2022-10-06 06:19:00,0,Candelaria,Atlántico,inactive,8,Colombia
+801,2022-01-10 04:14:17,1,Sáchica,Boyacá,active,15,Colombia
+802,2023-05-25 17:45:39,1,Recetor,Casanare,active,85,Colombia
+803,2022-12-25 01:28:54,1,Tenza,Boyacá,active,15,Colombia
+804,2023-10-30 11:04:45,0,San Pablo,Bolívar,inactive,13,Colombia
+805,2022-01-29 00:04:37,1,Frontino,Antioquia,active,5,Colombia
+806,2022-02-24 17:37:55,0,La Cumbre,Valle del Cauca,inactive,76,Colombia
+807,2023-06-14 19:07:04,1,Villamaría,Caldas,active,17,Colombia
+808,2023-12-19 11:11:42,0,San Martín de Loba,Bolívar,inactive,13,Colombia
+809,2022-05-15 14:09:03,1,Buenavista,Quindío,active,63,Colombia
+810,2022-03-17 02:37:53,1,Oporapa,Huila,active,41,Colombia
+811,2022-07-01 03:30:44,0,Donmatías,Antioquia,inactive,5,Colombia
+812,2024-01-23 00:16:43,1,Caramanta,Antioquia,active,5,Colombia
+813,2022-04-15 09:18:04,0,San Juanito,Meta,inactive,50,Colombia
+814,2023-11-05 23:01:25,0,Leiva,Nariño,inactive,52,Colombia
+815,2023-09-24 21:13:15,1,González,Cesar,active,20,Colombia
+816,2022-11-16 09:55:54,1,Campoalegre,Huila,active,41,Colombia
+817,2024-01-21 12:16:27,1,Santa Bárbara,Santander,active,68,Colombia
+818,2024-01-13 15:18:49,0,Calima,Valle del Cauca,inactive,76,Colombia
+819,2023-03-19 03:10:15,1,Nueva Granada,Magdalena,active,47,Colombia
+820,2022-12-20 13:25:32,1,San Antonio,Tolima,active,73,Colombia
+821,2023-04-30 03:29:48,0,Paz de Río,Boyacá,inactive,15,Colombia
+822,2022-03-11 16:35:58,0,Cereté,Córdoba,inactive,23,Colombia
+823,2022-08-26 11:33:18,1,Caparrapí,Cundinamarca,active,25,Colombia
+824,2023-05-27 13:34:01,1,Orito,Putumayo,active,86,Colombia
+825,2022-09-13 20:09:33,1,Chinchiná,Caldas,active,17,Colombia
+826,2023-04-06 14:15:49,0,Chivolo,Magdalena,inactive,47,Colombia
+827,2022-04-29 18:04:10,0,Albania,Santander,inactive,68,Colombia
+828,2022-06-26 12:42:59,0,La Paz,Santander,inactive,68,Colombia
+829,2023-06-24 20:59:28,0,San Martín,Cesar,inactive,20,Colombia
+830,2022-07-07 13:46:16,1,Restrepo,Valle del Cauca,active,76,Colombia
+831,2024-01-17 08:50:13,1,El Guacamayo,Santander,active,68,Colombia
+832,2023-03-27 12:56:41,0,Santa Rosa,Bolívar,inactive,13,Colombia
+833,2022-01-31 08:10:54,1,Fusagasugá,Cundinamarca,active,25,Colombia
+834,2023-12-18 02:29:17,0,Maripí,Boyacá,inactive,15,Colombia
+835,2023-12-13 04:10:38,1,Pore,Casanare,active,85,Colombia
+836,2024-01-04 20:47:01,0,Guaranda,Sucre,inactive,70,Colombia
+837,2023-05-24 22:03:19,1,La Paz,Cesar,active,20,Colombia
+838,2022-07-14 22:13:38,0,Ábrego,Norte de Santander,inactive,54,Colombia
+839,2022-08-25 23:02:18,0,Manizales,Caldas,inactive,17,Colombia
+840,2022-10-11 21:57:26,0,Toribío,Cauca,inactive,19,Colombia
+841,2023-12-21 17:29:10,1,Villa Caro,Norte de Santander,active,54,Colombia
+842,2022-11-15 22:52:39,1,Armero,Tolima,active,73,Colombia
+843,2022-08-16 01:39:48,1,Coromoro,Santander,active,68,Colombia
+844,2023-10-05 15:33:13,1,El Santuario,Antioquia,active,5,Colombia
+845,2023-01-28 15:29:31,0,Puerto Caicedo,Putumayo,inactive,86,Colombia
+846,2024-01-13 22:35:25,1,La Esperanza,Norte de Santander,active,54,Colombia
+847,2022-06-26 09:33:38,1,Gamarra,Cesar,active,20,Colombia
+848,2022-03-11 14:40:36,1,Villa de San Diego de Ubaté,Cundinamarca,active,25,Colombia
+849,2023-12-03 15:44:11,0,Caucasia,Antioquia,inactive,5,Colombia
+850,2022-05-05 17:00:47,0,Valledupar,Cesar,inactive,20,Colombia
+851,2022-11-18 13:56:46,0,Pasca,Cundinamarca,inactive,25,Colombia
+852,2023-01-16 17:24:12,0,San Rafael,Antioquia,inactive,5,Colombia
+853,2022-10-13 20:32:19,0,Cimitarra,Santander,inactive,68,Colombia
+854,2023-01-24 02:14:10,1,Íquira,Huila,active,41,Colombia
+855,2023-04-02 04:13:49,0,El Zulia,Norte de Santander,inactive,54,Colombia
+856,2023-09-09 01:23:31,1,Norosí,Bolívar,active,13,Colombia
+857,2022-04-30 14:17:06,1,Cabuyaro,Meta,active,50,Colombia
+858,2023-07-05 10:31:08,1,Ituango,Antioquia,active,5,Colombia
+859,2022-08-13 12:01:30,0,Corozal,Sucre,inactive,70,Colombia
+860,2022-09-18 13:16:16,1,Manaure,La Guajira,active,44,Colombia
+861,2022-06-02 05:17:41,0,Guamo,Tolima,inactive,73,Colombia
+862,2022-01-02 10:48:15,0,Villagarzón,Putumayo,inactive,86,Colombia
+863,2022-01-20 15:10:03,1,Guachucal,Nariño,active,52,Colombia
+864,2022-04-29 13:22:31,0,Tipacoque,Boyacá,inactive,15,Colombia
+865,2022-06-02 05:10:02,0,Villa del Rosario,Norte de Santander,inactive,54,Colombia
+866,2022-11-19 10:32:05,1,Jericó,Antioquia,active,5,Colombia
+867,2023-01-15 08:59:03,1,La Llanada,Nariño,active,52,Colombia
+868,2023-05-24 06:32:24,0,Macanal,Boyacá,inactive,15,Colombia
+869,2023-05-11 03:45:23,0,Machetá,Cundinamarca,inactive,25,Colombia
+870,2024-01-26 17:18:26,0,Tocaima,Cundinamarca,inactive,25,Colombia
+871,2023-09-27 06:54:53,1,Paicol,Huila,active,41,Colombia
+872,2023-06-10 19:35:50,0,Vianí,Cundinamarca,inactive,25,Colombia
+873,2023-05-28 00:43:20,1,Galán,Santander,active,68,Colombia
+874,2024-01-26 04:01:09,1,Mahates,Bolívar,active,13,Colombia
+875,2022-05-18 19:17:13,1,Cajicá,Cundinamarca,active,25,Colombia
+876,2023-03-08 08:43:43,1,Bajo Baudó,Chocó,active,27,Colombia
+877,2022-02-12 19:04:26,1,Belmira,Antioquia,active,5,Colombia
+878,2023-07-02 18:30:37,1,Guamal,Meta,active,50,Colombia
+879,2022-12-31 18:59:38,1,Anserma,Caldas,active,17,Colombia
+880,2022-06-02 03:54:57,1,Nariño,Cundinamarca,active,25,Colombia
+881,2022-03-07 08:59:38,1,Ramiriquí,Boyacá,active,15,Colombia
+882,2022-07-21 10:15:31,1,El Dovio,Valle del Cauca,active,76,Colombia
+883,2022-12-02 06:08:54,1,San Vicente de Chucurí,Santander,active,68,Colombia
+884,2022-02-09 04:58:35,0,Briceño,Boyacá,inactive,15,Colombia
+885,2022-06-04 21:21:57,0,Abejorral,Antioquia,inactive,5,Colombia
+886,2023-10-22 20:00:08,1,Corrales,Boyacá,active,15,Colombia
+887,2023-06-27 14:34:46,1,Cantagallo,Bolívar,active,13,Colombia
+888,2023-12-21 01:28:08,0,El Cantón del San Pablo,Chocó,inactive,27,Colombia
+889,2022-02-14 07:15:48,0,Sucre,Santander,inactive,68,Colombia
+890,2022-08-11 10:06:30,0,Mosquera,Cundinamarca,inactive,25,Colombia
+891,2023-05-01 22:42:35,0,Valle del Guamuez,Putumayo,inactive,86,Colombia
+892,2023-08-01 01:56:04,0,Choachí,Cundinamarca,inactive,25,Colombia
+893,2023-12-20 04:30:26,1,Andes,Antioquia,active,5,Colombia
+894,2023-02-16 15:23:44,1,Silos,Norte de Santander,active,54,Colombia
+895,2022-05-11 00:20:09,0,Cartagena de Indias,Bolívar,inactive,13,Colombia
+896,2023-02-28 22:40:54,0,Alvarado,Tolima,inactive,73,Colombia
+897,2023-05-18 10:18:35,0,Puerto Gaitán,Meta,inactive,50,Colombia
+898,2022-11-20 16:49:14,0,Santander de Quilichao,Cauca,inactive,19,Colombia
+899,2022-01-05 11:52:01,0,Segovia,Antioquia,inactive,5,Colombia
+900,2023-07-22 17:47:42,1,Campamento,Antioquia,active,5,Colombia
+901,2023-11-13 17:32:21,0,Pachavita,Boyacá,inactive,15,Colombia
+902,2024-01-26 07:04:03,0,Guapotá,Santander,inactive,68,Colombia
+903,2022-03-10 13:35:58,0,Pueblo Bello,Cesar,inactive,20,Colombia
+904,2023-07-27 11:14:52,1,Guadalupe,Santander,active,68,Colombia
+905,2022-02-17 17:35:09,0,Pesca,Boyacá,inactive,15,Colombia
+906,2023-03-09 06:47:08,1,Encino,Santander,active,68,Colombia
+907,2022-03-05 23:51:05,1,El Guamo,Bolívar,active,13,Colombia
+908,2023-12-09 03:35:20,0,Tarso,Antioquia,inactive,5,Colombia
+909,2022-10-15 14:42:28,0,Guatapé,Antioquia,inactive,5,Colombia
+910,2022-07-13 23:32:14,0,Ovejas,Sucre,inactive,70,Colombia
+911,2022-12-24 17:01:26,1,Granada,Meta,active,50,Colombia
+912,2023-11-22 17:41:03,1,Falan,Tolima,active,73,Colombia
+913,2023-05-13 15:01:10,1,Cerrito,Santander,active,68,Colombia
+914,2022-09-10 18:46:29,0,Cuítiva,Boyacá,inactive,15,Colombia
+915,2022-09-16 07:24:48,0,El Tambo,Nariño,inactive,52,Colombia
+916,2022-08-10 03:55:49,0,San Pedro,Valle del Cauca,inactive,76,Colombia
+917,2024-01-18 14:01:17,0,El Rosal,Cundinamarca,inactive,25,Colombia
+918,2023-05-21 20:14:44,1,Albania,Santander,active,68,Colombia
+919,2022-09-01 21:23:37,0,Papunahua,Vaupés,inactive,97,Colombia
+920,2023-03-14 16:28:03,0,Tocancipá,Cundinamarca,inactive,25,Colombia
+921,2022-01-03 05:19:48,0,Pueblorrico,Antioquia,inactive,5,Colombia
+922,2022-08-01 12:55:47,0,La Pintada,Antioquia,inactive,5,Colombia
+923,2023-10-01 13:48:20,0,Hato,Santander,inactive,68,Colombia
+924,2023-05-09 11:33:41,0,Corozal,Sucre,inactive,70,Colombia
+925,2022-12-30 20:00:47,1,San José del Palmar,Chocó,active,27,Colombia
+926,2022-11-06 06:27:49,0,Guática,Risaralda,inactive,66,Colombia
+927,2023-01-25 07:18:38,0,Riofrío,Valle del Cauca,inactive,76,Colombia
+928,2022-10-08 06:52:02,0,Guacamayas,Boyacá,inactive,15,Colombia
+929,2022-05-02 00:31:43,1,Río de Oro,Cesar,active,20,Colombia
+930,2023-10-07 15:06:35,0,Orocué,Casanare,inactive,85,Colombia
+931,2022-12-31 02:51:57,0,Bojayá,Chocó,inactive,27,Colombia
+932,2022-04-15 17:15:17,0,Linares,Nariño,inactive,52,Colombia
+933,2022-03-17 15:33:33,1,Villagómez,Cundinamarca,active,25,Colombia
+934,2022-08-24 09:14:50,1,Almaguer,Cauca,active,19,Colombia
+935,2023-08-31 01:48:32,0,Tibirita,Cundinamarca,inactive,25,Colombia
+936,2022-11-17 01:31:09,0,Santiago,Putumayo,inactive,86,Colombia
+937,2023-03-20 13:39:07,0,Santa Cruz de Mompox,Bolívar,inactive,13,Colombia
+938,2022-10-27 01:49:28,1,Puerto Guzmán,Putumayo,active,86,Colombia
+939,2022-02-21 10:42:36,0,Corrales,Boyacá,inactive,15,Colombia
+940,2023-11-03 14:28:03,0,Aquitania,Boyacá,inactive,15,Colombia
+941,2023-01-24 20:48:38,0,Almeida,Boyacá,inactive,15,Colombia
+942,2024-01-12 11:08:37,0,Tuluá,Valle del Cauca,inactive,76,Colombia
+943,2023-10-02 21:25:27,1,Caucasia,Antioquia,active,5,Colombia
+944,2024-01-17 18:22:18,0,Salento,Quindío,inactive,63,Colombia
+945,2023-02-27 03:01:03,0,Condoto,Chocó,inactive,27,Colombia
+946,2024-01-19 06:29:03,0,El Banco,Magdalena,inactive,47,Colombia
+947,2022-01-12 07:51:54,1,Palestina,Huila,active,41,Colombia
+948,2023-12-24 10:29:20,0,Chitaraque,Boyacá,inactive,15,Colombia
+949,2023-11-13 12:40:43,0,San Sebastián de Mariquita,Tolima,inactive,73,Colombia
+950,2022-10-20 01:57:04,0,Mosquera,Cundinamarca,inactive,25,Colombia
+951,2023-03-31 02:33:02,1,San Pedro de Cartago,Nariño,active,52,Colombia
+952,2023-04-17 23:21:56,1,Barranco de Loba,Bolívar,active,13,Colombia
+953,2023-10-04 20:53:31,1,Magangué,Bolívar,active,13,Colombia
+954,2023-11-24 17:13:37,1,Vegachí,Antioquia,active,5,Colombia
+955,2022-08-09 04:25:03,0,Rovira,Tolima,inactive,73,Colombia
+956,2022-03-15 08:40:09,0,Sabaneta,Antioquia,inactive,5,Colombia
+957,2022-01-30 07:12:02,1,Concepción,Santander,active,68,Colombia
+958,2023-10-30 04:32:40,0,Fredonia,Antioquia,inactive,5,Colombia
+959,2023-11-28 13:35:08,1,Angelópolis,Antioquia,active,5,Colombia
+960,2022-07-19 16:53:48,0,Sapuyes,Nariño,inactive,52,Colombia
+961,2022-12-06 14:14:21,0,Castilla la Nueva,Meta,inactive,50,Colombia
+962,2022-03-17 21:38:49,0,Envigado,Antioquia,inactive,5,Colombia
+963,2023-04-17 20:16:37,0,Sabaneta,Antioquia,inactive,5,Colombia
+964,2022-08-06 23:27:44,0,Tuchín,Córdoba,inactive,23,Colombia
+965,2023-09-15 07:34:39,0,Oiba,Santander,inactive,68,Colombia
+966,2024-01-18 09:45:33,0,Arboledas,Norte de Santander,inactive,54,Colombia
+967,2023-02-17 10:14:12,0,Tarqui,Huila,inactive,41,Colombia
+968,2022-08-08 11:42:57,1,San Cayetano,Norte de Santander,active,54,Colombia
+969,2023-12-21 18:28:49,1,El Zulia,Norte de Santander,active,54,Colombia
+970,2023-04-25 06:53:51,1,Caloto,Cauca,active,19,Colombia
+971,2023-06-19 02:18:27,0,Timbiquí,Cauca,inactive,19,Colombia
+972,2023-03-21 20:17:24,1,Turbo,Antioquia,active,5,Colombia
+973,2023-03-26 12:50:08,1,Belén,Boyacá,active,15,Colombia
+974,2023-12-26 06:28:27,1,Tarapacá,Amazonas,active,91,Colombia
+975,2023-11-20 22:37:52,1,Manta,Cundinamarca,active,25,Colombia
+976,2022-12-27 09:00:42,1,Oiba,Santander,active,68,Colombia
+977,2022-01-16 13:23:32,1,Pailitas,Cesar,active,20,Colombia
+978,2022-04-06 08:59:30,0,González,Cesar,inactive,20,Colombia
+979,2023-05-15 07:53:05,1,Bolívar,Santander,active,68,Colombia
+980,2022-10-01 13:47:31,0,Norcasia,Caldas,inactive,17,Colombia
+981,2022-06-05 20:49:40,0,Zona Bananera,Magdalena,inactive,47,Colombia
+982,2023-07-27 10:49:55,0,Samaniego,Nariño,inactive,52,Colombia
+983,2023-05-02 15:34:06,0,Guadalajara de Buga,Valle del Cauca,inactive,76,Colombia
+984,2022-04-30 04:11:12,0,Siachoque,Boyacá,inactive,15,Colombia
+985,2022-02-19 07:18:42,0,Cáceres,Antioquia,inactive,5,Colombia
+986,2023-03-04 03:35:35,1,San Lorenzo,Nariño,active,52,Colombia
+987,2023-05-13 16:10:37,0,El Tarra,Norte de Santander,inactive,54,Colombia
+988,2023-03-12 07:50:43,0,Guarne,Antioquia,inactive,5,Colombia
+989,2023-05-30 20:24:07,0,Prado,Tolima,inactive,73,Colombia
+990,2023-12-19 14:51:12,0,Guamo,Tolima,inactive,73,Colombia
+991,2023-01-10 23:14:44,0,Caloto,Cauca,inactive,19,Colombia
+992,2023-01-19 17:08:30,1,Bugalagrande,Valle del Cauca,active,76,Colombia
+993,2022-12-24 09:56:24,1,Pisba,Boyacá,active,15,Colombia
+994,2023-07-30 00:11:07,0,El Colegio,Cundinamarca,inactive,25,Colombia
+995,2023-10-06 07:24:17,1,San José,Caldas,active,17,Colombia
+996,2022-06-15 15:30:48,1,Puerto Rondón,Arauca,active,81,Colombia
+997,2022-07-29 04:39:25,0,El Doncello,Caquetá,inactive,18,Colombia
+998,2023-03-16 10:47:15,0,Cajibío,Cauca,inactive,19,Colombia
+999,2023-06-05 12:25:19,0,San Pelayo,Córdoba,inactive,23,Colombia
+1000,2022-02-15 14:40:38,0,San Diego,Cesar,inactive,20,Colombia
+1001,2023-06-28 22:23:41,0,Cali,Valle del Cauca,inactive,76,Colombia
+1002,2023-08-26 19:54:17,0,Arenal,Bolívar,inactive,13,Colombia
+1003,2023-12-11 20:10:20,1,Pijiño del Carmen,Magdalena,active,47,Colombia
+1004,2023-06-22 17:45:26,0,Salamina,Magdalena,inactive,47,Colombia
+1005,2022-05-31 11:46:53,1,Valle de San José,Santander,active,68,Colombia
+1006,2023-06-13 12:07:18,0,San Roque,Antioquia,inactive,5,Colombia
+1007,2023-10-30 16:53:46,1,Cubará,Boyacá,active,15,Colombia
+1008,2023-04-10 00:37:19,1,San Luis,Tolima,active,73,Colombia
+1009,2024-01-16 13:22:47,1,Cicuco,Bolívar,active,13,Colombia
+1010,2022-07-29 07:32:11,0,Arcabuco,Boyacá,inactive,15,Colombia
+1011,2023-03-26 00:08:36,0,Barrancominas,Guainía,inactive,94,Colombia
+1012,2023-05-30 03:24:45,0,Toribío,Cauca,inactive,19,Colombia
+1013,2022-08-10 09:24:23,0,Puerto Colombia,Atlántico,inactive,8,Colombia
+1014,2023-03-01 11:05:05,1,Riosucio,Chocó,active,27,Colombia
+1015,2023-10-08 22:19:12,0,Cereté,Córdoba,inactive,23,Colombia
+1016,2023-05-22 09:06:50,0,San Benito Abad,Sucre,inactive,70,Colombia
+1017,2023-08-02 07:41:54,0,San Roque,Antioquia,inactive,5,Colombia
+1018,2023-03-24 06:14:33,0,Cunday,Tolima,inactive,73,Colombia
+1019,2024-01-13 01:59:41,0,Herrán,Norte de Santander,inactive,54,Colombia
+1020,2024-01-08 09:16:06,1,Cerro de San Antonio,Magdalena,active,47,Colombia
+1021,2022-06-08 13:36:07,0,San Miguel de Sema,Boyacá,inactive,15,Colombia
+1022,2023-12-04 19:52:43,1,Enciso,Santander,active,68,Colombia
+1023,2022-09-15 17:10:56,0,Los Patios,Norte de Santander,inactive,54,Colombia
+1024,2023-08-14 23:27:40,1,Chipaque,Cundinamarca,active,25,Colombia
+1025,2023-07-26 01:45:04,1,Algarrobo,Magdalena,active,47,Colombia
+1026,2023-06-25 01:24:34,1,Fresno,Tolima,active,73,Colombia
+1027,2022-06-24 03:06:19,0,Ricaurte,Nariño,inactive,52,Colombia
+1028,2022-07-11 22:55:47,1,Buriticá,Antioquia,active,5,Colombia
+1029,2023-12-22 02:52:05,0,Trujillo,Valle del Cauca,inactive,76,Colombia
+1030,2023-02-27 12:40:22,0,San Gil,Santander,inactive,68,Colombia
+1031,2023-09-07 22:47:15,0,Piendamó - Tunía,Cauca,inactive,19,Colombia
+1032,2023-06-04 23:46:46,1,San Pablo,Bolívar,active,13,Colombia
+1033,2023-11-23 07:08:18,0,Lebrija,Santander,inactive,68,Colombia
+1034,2023-12-19 04:41:16,0,María la Baja,Bolívar,inactive,13,Colombia
+1035,2023-07-22 04:23:29,0,Gramalote,Norte de Santander,inactive,54,Colombia
+1036,2022-07-21 03:46:03,1,Toledo,Antioquia,active,5,Colombia
+1037,2022-04-21 01:39:25,1,Tocancipá,Cundinamarca,active,25,Colombia
+1038,2022-07-09 15:59:30,1,Santa Ana,Magdalena,active,47,Colombia
+1039,2022-04-03 08:00:55,0,Valle de San José,Santander,inactive,68,Colombia
+1040,2023-03-05 05:34:13,1,Yopal,Casanare,active,85,Colombia
+1041,2022-02-07 01:46:00,1,Piendamó - Tunía,Cauca,active,19,Colombia
+1042,2022-09-12 14:15:27,1,Sutamarchán,Boyacá,active,15,Colombia
+1043,2022-03-28 09:43:44,1,El Castillo,Meta,active,50,Colombia
+1044,2023-06-22 02:18:05,1,Marsella,Risaralda,active,66,Colombia
+1045,2023-05-15 00:32:59,1,Samaná,Caldas,active,17,Colombia
+1046,2023-09-07 23:35:43,1,Sutatausa,Cundinamarca,active,25,Colombia
+1047,2023-10-02 19:20:09,1,Simijaca,Cundinamarca,active,25,Colombia
+1048,2022-11-12 16:37:53,1,Cumbitara,Nariño,active,52,Colombia
+1049,2022-07-27 10:44:40,0,Moñitos,Córdoba,inactive,23,Colombia
+1050,2023-10-01 14:14:02,1,Santa Rosa de Viterbo,Boyacá,active,15,Colombia
+1051,2023-05-25 03:46:26,1,Nocaima,Cundinamarca,active,25,Colombia
+1052,2023-05-24 18:16:18,1,Guacarí,Valle del Cauca,active,76,Colombia
+1053,2023-03-03 19:23:38,0,Tunja,Boyacá,inactive,15,Colombia
+1054,2022-01-25 21:40:29,0,Cabrera,Cundinamarca,inactive,25,Colombia
+1055,2022-02-13 06:08:10,0,Tibú,Norte de Santander,inactive,54,Colombia
+1056,2023-12-23 15:57:46,1,Andalucía,Valle del Cauca,active,76,Colombia
+1057,2023-04-09 20:13:21,1,Firavitoba,Boyacá,active,15,Colombia
+1058,2023-06-16 00:29:43,1,La Gloria,Cesar,active,20,Colombia
+1059,2024-01-14 03:50:57,0,Fortul,Arauca,inactive,81,Colombia
+1060,2022-08-13 21:55:08,0,Saldaña,Tolima,inactive,73,Colombia
+1061,2023-08-21 01:36:46,1,Talaigua Nuevo,Bolívar,active,13,Colombia
+1062,2023-02-25 11:30:47,1,San Benito Abad,Sucre,active,70,Colombia
+1063,2023-01-01 19:59:45,1,Turbaco,Bolívar,active,13,Colombia
+1064,2022-02-02 16:41:52,0,San Pedro de los Milagros,Antioquia,inactive,5,Colombia
+1065,2022-03-03 02:20:05,1,Chiquinquirá,Boyacá,active,15,Colombia
+1066,2023-04-17 10:23:02,1,Ábrego,Norte de Santander,active,54,Colombia
+1067,2022-09-20 07:29:16,0,Montenegro,Quindío,inactive,63,Colombia
+1068,2023-02-07 20:00:19,0,Marinilla,Antioquia,inactive,5,Colombia
+1069,2023-05-28 21:42:00,1,Convención,Norte de Santander,active,54,Colombia
+1070,2023-12-31 00:51:55,0,Planeta Rica,Córdoba,inactive,23,Colombia
+1071,2023-04-09 01:35:39,1,La Capilla,Boyacá,active,15,Colombia
+1072,2024-01-23 13:27:38,0,Zapatoca,Santander,inactive,68,Colombia
+1073,2024-01-13 07:08:15,1,El Cantón del San Pablo,Chocó,active,27,Colombia
+1074,2023-04-20 14:19:29,1,Medio Atrato,Chocó,active,27,Colombia
+1075,2023-02-01 07:07:20,0,Choachí,Cundinamarca,inactive,25,Colombia
+1076,2022-07-21 22:56:08,0,Timbiquí,Cauca,inactive,19,Colombia
+1077,2023-09-30 02:08:56,1,Granada,Antioquia,active,5,Colombia
+1078,2023-03-13 10:03:10,1,Génova,Quindío,active,63,Colombia
+1079,2023-12-14 05:01:01,1,Samacá,Boyacá,active,15,Colombia
+1080,2023-11-18 18:16:57,1,Palermo,Huila,active,41,Colombia
+1081,2022-09-21 19:11:05,1,Barichara,Santander,active,68,Colombia
+1082,2023-01-10 08:45:55,1,Margarita,Bolívar,active,13,Colombia
+1083,2024-01-17 02:54:59,1,Sapuyes,Nariño,active,52,Colombia
+1084,2022-02-21 03:30:31,0,Los Andes,Nariño,inactive,52,Colombia
+1085,2022-02-25 02:15:35,0,San Francisco,Cundinamarca,inactive,25,Colombia
+1086,2022-02-14 19:29:15,1,Piojó,Atlántico,active,8,Colombia
+1087,2022-07-05 18:04:31,0,Piedecuesta,Santander,inactive,68,Colombia
+1088,2023-08-10 16:00:03,0,Ocamonte,Santander,inactive,68,Colombia
+1089,2023-08-31 00:56:29,1,Monterrey,Casanare,active,85,Colombia
+1090,2023-09-28 14:48:02,0,Busbanzá,Boyacá,inactive,15,Colombia
+1091,2023-11-19 12:12:11,0,Medellín,Antioquia,inactive,5,Colombia
+1092,2024-01-11 14:44:06,1,Funes,Nariño,active,52,Colombia
+1093,2023-02-28 01:27:57,1,Cocorná,Antioquia,active,5,Colombia
+1094,2023-08-18 10:09:06,1,Imués,Nariño,active,52,Colombia
+1095,2022-05-24 14:10:37,1,Quebradanegra,Cundinamarca,active,25,Colombia
+1096,2023-05-15 16:58:37,0,Aipe,Huila,inactive,41,Colombia
+1097,2022-04-03 16:43:05,0,Santacruz,Nariño,inactive,52,Colombia
+1098,2022-08-12 17:32:17,0,La Calera,Cundinamarca,inactive,25,Colombia
+1099,2023-11-14 21:26:10,1,Belén de Umbría,Risaralda,active,66,Colombia
+1100,2022-06-14 00:23:16,0,Puracé,Cauca,inactive,19,Colombia
+1101,2022-04-24 03:02:03,1,Acandí,Chocó,active,27,Colombia
+1102,2022-07-21 16:16:28,1,Providencia,Nariño,active,52,Colombia
+1103,2023-01-12 20:26:04,1,Calarcá,Quindío,active,63,Colombia
+1104,2023-04-24 13:41:53,1,Cali,Valle del Cauca,active,76,Colombia
+1105,2022-01-27 11:46:23,1,Atrato,Chocó,active,27,Colombia
+1106,2022-10-17 13:55:10,1,Mistrató,Risaralda,active,66,Colombia
+1107,2022-08-10 21:24:20,1,San Martín,Meta,active,50,Colombia
+1108,2022-03-06 18:57:34,0,Barichara,Santander,inactive,68,Colombia
+1109,2023-01-14 15:58:21,0,Guamo,Tolima,inactive,73,Colombia
+1110,2023-10-21 03:52:19,0,Bolívar,Valle del Cauca,inactive,76,Colombia
+1111,2023-06-20 07:52:22,1,Ponedera,Atlántico,active,8,Colombia
+1112,2023-11-22 08:23:57,1,El Cantón del San Pablo,Chocó,active,27,Colombia
+1113,2023-02-24 22:39:18,1,Río de Oro,Cesar,active,20,Colombia
+1114,2022-05-19 15:01:54,0,Ponedera,Atlántico,inactive,8,Colombia
+1115,2022-04-11 01:32:11,1,Nimaima,Cundinamarca,active,25,Colombia
+1116,2023-04-06 10:29:38,0,Belén de Umbría,Risaralda,inactive,66,Colombia
+1117,2023-04-25 08:43:34,1,El Guacamayo,Santander,active,68,Colombia
+1118,2022-04-17 02:45:56,0,Macanal,Boyacá,inactive,15,Colombia
+1119,2023-06-18 20:16:11,0,Victoria,Caldas,inactive,17,Colombia
+1120,2022-05-22 03:27:31,0,Mongua,Boyacá,inactive,15,Colombia
+1121,2022-11-05 12:30:10,1,El Tambo,Cauca,active,19,Colombia
+1122,2022-06-16 10:59:56,1,Casabianca,Tolima,active,73,Colombia
+1123,2022-03-17 03:25:41,1,Colosó,Sucre,active,70,Colombia
+1124,2022-02-21 08:27:42,0,Ituango,Antioquia,inactive,5,Colombia
+1125,2022-03-19 01:40:10,0,Unión Panamericana,Chocó,inactive,27,Colombia
+1126,2024-01-15 01:24:40,1,Mapiripán,Meta,active,50,Colombia
+1127,2023-05-14 09:44:35,0,Vianí,Cundinamarca,inactive,25,Colombia
+1128,2022-03-20 09:08:03,1,El Dorado,Meta,active,50,Colombia
+1129,2022-11-29 03:27:24,0,González,Cesar,inactive,20,Colombia
+1130,2022-06-18 05:17:31,1,Puerres,Nariño,active,52,Colombia
+1131,2023-09-04 08:28:45,1,Momil,Córdoba,active,23,Colombia
+1132,2023-01-22 07:14:33,1,Pacoa,Vaupés,active,97,Colombia
+1133,2022-10-12 23:16:48,0,San Pablo,Nariño,inactive,52,Colombia
+1134,2024-01-11 17:19:18,0,Cartago,Valle del Cauca,inactive,76,Colombia
+1135,2022-02-10 07:45:55,0,Sabaneta,Antioquia,inactive,5,Colombia
+1136,2023-06-10 17:48:14,1,Campohermoso,Boyacá,active,15,Colombia
+1137,2023-02-11 15:39:32,0,Betania,Antioquia,inactive,5,Colombia
+1138,2022-11-06 00:28:39,0,San Miguel,Putumayo,inactive,86,Colombia
+1139,2023-12-31 21:16:57,1,La Merced,Caldas,active,17,Colombia
+1140,2022-02-23 06:28:05,0,Chipatá,Santander,inactive,68,Colombia
+1141,2023-11-10 07:17:19,0,Arauca,Arauca,inactive,81,Colombia
+1142,2022-04-26 20:12:36,1,Teorama,Norte de Santander,active,54,Colombia
+1143,2023-02-18 03:59:13,1,Usiacurí,Atlántico,active,8,Colombia
+1144,2023-01-07 10:00:40,1,La Jagua de Ibirico,Cesar,active,20,Colombia
+1145,2022-06-01 16:55:31,1,Tunja,Boyacá,active,15,Colombia
+1146,2023-05-20 03:58:15,0,El Cantón del San Pablo,Chocó,inactive,27,Colombia
+1147,2022-03-01 06:53:32,1,Paipa,Boyacá,active,15,Colombia
+1148,2022-03-29 11:09:00,1,San Andrés,Santander,active,68,Colombia
+1149,2022-05-01 05:14:44,1,Pácora,Caldas,active,17,Colombia
+1150,2022-08-25 17:57:51,0,Gachancipá,Cundinamarca,inactive,25,Colombia
+1151,2022-04-10 02:04:36,0,Nueva Granada,Magdalena,inactive,47,Colombia
+1152,2023-02-03 03:58:59,0,Santiago,Norte de Santander,inactive,54,Colombia
+1153,2022-12-17 17:34:45,1,Sandoná,Nariño,active,52,Colombia
+1154,2023-07-18 07:23:43,0,Algarrobo,Magdalena,inactive,47,Colombia
+1155,2023-07-12 07:52:26,1,Albán,Cundinamarca,active,25,Colombia
+1156,2022-04-14 10:05:42,0,Viracachá,Boyacá,inactive,15,Colombia
+1157,2022-07-30 15:23:26,0,San Vicente del Caguán,Caquetá,inactive,18,Colombia
+1158,2024-01-03 22:09:30,1,Cumbitara,Nariño,active,52,Colombia
+1159,2023-10-17 08:08:29,0,Arboleda,Nariño,inactive,52,Colombia
+1160,2022-11-29 10:21:28,0,Solita,Caquetá,inactive,18,Colombia
+1161,2023-06-25 14:10:09,0,Yacopí,Cundinamarca,inactive,25,Colombia
+1162,2022-12-01 09:21:53,0,Tocaima,Cundinamarca,inactive,25,Colombia
+1163,2023-06-12 11:03:42,0,El Cantón del San Pablo,Chocó,inactive,27,Colombia
+1164,2022-08-03 06:35:47,1,Morichal,Guainía,active,94,Colombia
+1165,2023-12-21 08:41:42,0,Motavita,Boyacá,inactive,15,Colombia
+1166,2022-03-10 07:34:31,0,Paz de Río,Boyacá,inactive,15,Colombia
+1167,2022-07-30 20:42:45,1,Tena,Cundinamarca,active,25,Colombia
+1168,2022-10-20 20:45:51,0,San Antonio del Tequendama,Cundinamarca,inactive,25,Colombia
+1169,2023-03-31 21:37:24,1,Sahagún,Córdoba,active,23,Colombia
+1170,2023-04-16 09:02:37,0,Heliconia,Antioquia,inactive,5,Colombia
+1171,2023-01-12 14:06:55,1,Bogotá,Cundinamarca,active,25,Colombia
+1172,2022-11-25 16:18:59,0,Guacarí,Valle del Cauca,inactive,76,Colombia
+1173,2023-09-18 00:25:05,1,Nariño,Nariño,active,52,Colombia
+1174,2023-09-23 13:13:10,1,Magangué,Bolívar,active,13,Colombia
+1175,2023-08-24 06:17:55,1,Galapa,Atlántico,active,8,Colombia
+1176,2022-01-14 06:01:44,1,Andes,Antioquia,active,5,Colombia
+1177,2023-03-02 08:12:44,0,Carmen de Carupa,Cundinamarca,inactive,25,Colombia
+1178,2022-06-17 14:21:34,0,Lebrija,Santander,inactive,68,Colombia
+1179,2022-01-09 01:52:39,1,El Carmen de Atrato,Chocó,active,27,Colombia
+1180,2022-01-26 22:43:08,1,La Argentina,Huila,active,41,Colombia
+1181,2022-07-30 18:12:50,1,Pueblo Bello,Cesar,active,20,Colombia
+1182,2023-09-12 10:41:15,0,Hatonuevo,La Guajira,inactive,44,Colombia
+1183,2022-01-16 02:36:00,0,Villanueva,Santander,inactive,68,Colombia
+1184,2022-06-19 16:43:52,1,Guayabetal,Cundinamarca,active,25,Colombia
+1185,2022-10-22 15:19:50,1,Sabaneta,Antioquia,active,5,Colombia
+1186,2022-04-16 08:30:34,1,Anapoima,Cundinamarca,active,25,Colombia
+1187,2023-11-16 04:43:18,1,Calamar,Bolívar,active,13,Colombia
+1188,2022-02-28 15:43:35,0,Nueva Granada,Magdalena,inactive,47,Colombia
+1189,2022-05-02 21:03:37,1,Bojayá,Chocó,active,27,Colombia
+1190,2023-04-25 14:04:23,1,La Esperanza,Norte de Santander,active,54,Colombia
+1191,2023-03-23 02:15:28,0,Susa,Cundinamarca,inactive,25,Colombia
+1192,2022-06-15 06:04:04,1,San Carlos,Antioquia,active,5,Colombia
+1193,2023-08-22 20:26:06,0,Itagüí,Antioquia,inactive,5,Colombia
+1194,2023-05-19 19:42:51,0,Barranquilla,Atlántico,inactive,8,Colombia
+1195,2023-05-07 13:04:58,0,Piamonte,Cauca,inactive,19,Colombia
+1196,2023-10-29 14:42:46,0,Guaduas,Cundinamarca,inactive,25,Colombia
+1197,2023-06-10 23:31:33,1,Cuítiva,Boyacá,active,15,Colombia
+1198,2023-09-04 11:45:19,1,Palestina,Huila,active,41,Colombia
+1199,2023-12-24 03:04:37,1,Solita,Caquetá,active,18,Colombia
+1200,2023-03-15 09:18:36,1,Candelaria,Atlántico,active,8,Colombia
+1201,2022-01-30 18:32:30,1,Belén,Boyacá,active,15,Colombia
+1202,2023-02-03 03:50:13,0,Alto Baudó,Chocó,inactive,27,Colombia
+1203,2023-07-19 02:52:40,1,Pereira,Risaralda,active,66,Colombia
+1204,2022-10-08 13:33:41,1,Villanueva,Santander,active,68,Colombia
+1205,2023-12-10 14:27:51,1,Miranda,Cauca,active,19,Colombia
+1206,2023-07-28 10:28:50,1,Heliconia,Antioquia,active,5,Colombia
+1207,2023-07-16 17:23:44,0,Mutiscua,Norte de Santander,inactive,54,Colombia
+1208,2022-09-30 02:15:44,0,Ovejas,Sucre,inactive,70,Colombia
+1209,2023-10-10 04:27:01,1,Génova,Quindío,active,63,Colombia
+1210,2022-09-10 04:48:22,0,Mutiscua,Norte de Santander,inactive,54,Colombia
+1211,2022-06-26 01:04:19,1,Planadas,Tolima,active,73,Colombia
+1212,2023-05-31 22:59:54,1,Ciénega,Boyacá,active,15,Colombia
+1213,2023-06-06 06:44:26,0,Páez,Cauca,inactive,19,Colombia
+1214,2023-11-23 00:21:20,0,San Alberto,Cesar,inactive,20,Colombia
+1215,2024-01-08 02:00:09,1,Becerril,Cesar,active,20,Colombia
+1216,2023-08-05 06:35:36,1,Colombia,Huila,active,41,Colombia
+1217,2023-11-07 13:14:09,1,Santa Cruz de Mompox,Bolívar,active,13,Colombia
+1218,2022-11-19 09:01:22,0,Sibundoy,Putumayo,inactive,86,Colombia
+1219,2022-04-30 01:40:50,1,Cocorná,Antioquia,active,5,Colombia
+1220,2022-10-06 00:10:09,1,Potosí,Nariño,active,52,Colombia
+1221,2022-05-21 07:29:45,1,Socha,Boyacá,active,15,Colombia
+1222,2022-06-17 17:28:01,0,Landázuri,Santander,inactive,68,Colombia
+1223,2022-08-06 21:55:41,1,Motavita,Boyacá,active,15,Colombia
+1224,2022-07-16 16:29:44,0,María la Baja,Bolívar,inactive,13,Colombia
+1225,2023-11-29 19:43:00,0,Puerto Leguízamo,Putumayo,inactive,86,Colombia
+1226,2022-05-13 10:58:26,1,Yalí,Antioquia,active,5,Colombia
+1227,2023-02-12 23:08:02,1,Concepción,Antioquia,active,5,Colombia
+1228,2022-12-28 21:59:07,1,Herveo,Tolima,active,73,Colombia
+1229,2022-08-22 12:35:57,0,Tona,Santander,inactive,68,Colombia
+1230,2023-07-16 12:54:56,1,Puerto Libertador,Córdoba,active,23,Colombia
+1231,2022-01-16 01:50:41,0,Santander de Quilichao,Cauca,inactive,19,Colombia
+1232,2023-12-22 20:33:33,1,Puerto Colombia,Atlántico,active,8,Colombia
+1233,2024-01-15 22:09:34,1,Sahagún,Córdoba,active,23,Colombia
+1234,2023-05-06 04:59:24,0,El Rosal,Cundinamarca,inactive,25,Colombia
+1235,2023-02-05 22:10:37,0,Valle de San José,Santander,inactive,68,Colombia
+1236,2023-12-31 14:18:51,0,Acevedo,Huila,inactive,41,Colombia
+1237,2022-02-28 17:28:38,1,Garzón,Huila,active,41,Colombia
+1238,2023-12-25 12:41:16,1,Pamplona,Norte de Santander,active,54,Colombia
+1239,2022-11-03 14:02:55,0,Fresno,Tolima,inactive,73,Colombia
+1240,2023-03-24 00:23:54,0,María la Baja,Bolívar,inactive,13,Colombia
+1241,2023-11-27 06:16:47,0,Mongua,Boyacá,inactive,15,Colombia
+1242,2023-05-13 20:18:46,0,Argelia,Cauca,inactive,19,Colombia
+1243,2022-06-27 18:20:21,0,Manzanares,Caldas,inactive,17,Colombia
+1244,2022-06-15 23:52:39,1,Santa Helena del Opón,Santander,active,68,Colombia
+1245,2023-10-22 15:50:50,1,Puerto Santander,Norte de Santander,active,54,Colombia
+1246,2022-02-17 16:05:21,0,Nuquí,Chocó,inactive,27,Colombia
+1247,2023-05-19 08:37:40,0,El Paso,Cesar,inactive,20,Colombia
+1248,2023-03-26 06:25:52,1,Chalán,Sucre,active,70,Colombia
+1249,2023-10-02 09:01:33,0,Carolina,Antioquia,inactive,5,Colombia
+1250,2023-06-23 18:47:57,1,Chigorodó,Antioquia,active,5,Colombia
+1251,2023-07-21 12:52:24,1,Pamplonita,Norte de Santander,active,54,Colombia
+1252,2022-12-19 06:51:37,1,Teorama,Norte de Santander,active,54,Colombia
+1253,2023-03-27 06:17:41,1,Bajo Baudó,Chocó,active,27,Colombia
+1254,2023-10-21 18:12:40,1,Tamalameque,Cesar,active,20,Colombia
+1255,2023-12-18 23:17:48,1,Santa Fé de Antioquia,Antioquia,active,5,Colombia
+1256,2022-03-05 05:03:17,1,Córdoba,Bolívar,active,13,Colombia
+1257,2022-11-07 19:36:34,1,Soacha,Cundinamarca,active,25,Colombia
+1258,2023-04-09 04:39:09,1,Coello,Tolima,active,73,Colombia
+1259,2023-12-20 12:41:18,0,Simijaca,Cundinamarca,inactive,25,Colombia
+1260,2022-12-03 20:52:33,0,Caicedo,Antioquia,inactive,5,Colombia
+1261,2023-04-16 06:18:10,0,Copacabana,Antioquia,inactive,5,Colombia
+1262,2022-01-25 12:06:35,0,Cereté,Córdoba,inactive,23,Colombia
+1263,2022-10-02 14:05:19,0,Guapi,Cauca,inactive,19,Colombia
+1264,2023-07-14 08:17:22,1,Sora,Boyacá,active,15,Colombia
+1265,2023-04-30 00:57:22,0,Agua de Dios,Cundinamarca,inactive,25,Colombia
+1266,2023-07-27 21:31:46,0,Hobo,Huila,inactive,41,Colombia
+1267,2022-08-27 03:02:02,0,Mallama,Nariño,inactive,52,Colombia
+1268,2023-08-02 05:49:01,0,Sotará Paispamba,Cauca,inactive,19,Colombia
+1269,2022-05-30 15:17:38,1,Atrato,Chocó,active,27,Colombia
+1270,2023-05-10 08:53:09,1,Guadalajara de Buga,Valle del Cauca,active,76,Colombia
+1271,2022-02-23 01:58:44,1,Bugalagrande,Valle del Cauca,active,76,Colombia
+1272,2022-10-24 00:28:17,1,Moniquirá,Boyacá,active,15,Colombia
+1273,2023-04-09 13:50:07,1,Santa Bárbara,Antioquia,active,5,Colombia
+1274,2022-04-21 16:16:21,0,Cubará,Boyacá,inactive,15,Colombia
+1275,2022-12-24 13:25:37,1,Bucaramanga,Santander,active,68,Colombia
+1276,2022-09-19 01:54:52,0,Sardinata,Norte de Santander,inactive,54,Colombia
+1277,2022-05-11 02:13:31,1,Santiago de Tolú,Sucre,active,70,Colombia
+1278,2022-04-09 00:02:02,1,Pamplona,Norte de Santander,active,54,Colombia
+1279,2023-01-30 17:06:53,0,Pivijay,Magdalena,inactive,47,Colombia
+1280,2023-12-08 17:11:16,0,Pitalito,Huila,inactive,41,Colombia
+1281,2023-04-20 06:41:19,0,Santa María,Huila,inactive,41,Colombia
+1282,2023-09-24 06:57:44,0,La Salina,Casanare,inactive,85,Colombia
+1283,2022-08-06 16:10:35,0,Patía,Cauca,inactive,19,Colombia
+1284,2022-02-25 04:55:57,1,Somondoco,Boyacá,active,15,Colombia
+1285,2022-01-01 05:02:23,0,Nimaima,Cundinamarca,inactive,25,Colombia
+1286,2023-10-10 11:35:10,1,Maripí,Boyacá,active,15,Colombia
+1287,2022-06-08 23:15:08,1,Sabanas de San Ángel,Magdalena,active,47,Colombia
+1288,2022-08-09 22:09:52,0,Santiago,Norte de Santander,inactive,54,Colombia
+1289,2023-06-27 06:55:25,1,Nátaga,Huila,active,41,Colombia
+1290,2023-10-25 06:42:42,1,Barbosa,Antioquia,active,5,Colombia
+1291,2022-11-21 20:11:52,1,Tasco,Boyacá,active,15,Colombia
+1292,2022-10-14 00:13:14,0,San Pedro,Valle del Cauca,inactive,76,Colombia
+1293,2022-02-15 19:21:49,0,Mutatá,Antioquia,inactive,5,Colombia
+1294,2022-08-24 14:00:45,1,Gutiérrez,Cundinamarca,active,25,Colombia
+1295,2023-03-14 23:14:15,1,Susa,Cundinamarca,active,25,Colombia
+1296,2023-02-08 19:48:18,0,Aldana,Nariño,inactive,52,Colombia
+1297,2023-05-26 23:17:51,0,Vetas,Santander,inactive,68,Colombia
+1298,2023-04-27 03:27:02,1,Gamarra,Cesar,active,20,Colombia
+1299,2023-08-16 06:03:54,0,Cumaral,Meta,inactive,50,Colombia
+1300,2023-02-16 17:02:33,0,Chinácota,Norte de Santander,inactive,54,Colombia
+1301,2023-02-09 04:07:45,0,Soplaviento,Bolívar,inactive,13,Colombia
+1302,2023-05-09 10:07:50,1,Suan,Atlántico,active,8,Colombia
+1303,2023-07-29 07:59:47,1,San José,Caldas,active,17,Colombia
+1304,2022-09-03 08:11:00,1,Puerto Rico,Caquetá,active,18,Colombia
+1305,2023-04-06 08:13:05,0,Almeida,Boyacá,inactive,15,Colombia
+1306,2022-01-23 08:19:04,1,Granada,Antioquia,active,5,Colombia
+1307,2022-11-13 06:57:40,1,San Luis de Gaceno,Boyacá,active,15,Colombia
+1308,2024-01-22 13:05:52,0,Guamal,Magdalena,inactive,47,Colombia
+1309,2023-01-03 13:43:42,1,Ciénaga de Oro,Córdoba,active,23,Colombia
+1310,2023-03-29 15:34:43,1,Envigado,Antioquia,active,5,Colombia
+1311,2023-08-02 16:04:36,0,La Esperanza,Norte de Santander,inactive,54,Colombia
+1312,2022-02-17 14:39:56,1,Copacabana,Antioquia,active,5,Colombia
+1313,2022-11-15 07:13:01,0,Socha,Boyacá,inactive,15,Colombia
+1314,2023-01-25 06:06:51,0,Alejandría,Antioquia,inactive,5,Colombia
+1315,2023-11-11 12:15:23,1,Carmen de Carupa,Cundinamarca,active,25,Colombia
+1316,2022-05-06 01:47:14,1,El Espino,Boyacá,active,15,Colombia
+1317,2022-06-27 20:55:15,1,Fredonia,Antioquia,active,5,Colombia
+1318,2022-02-18 23:18:12,0,Bochalema,Norte de Santander,inactive,54,Colombia
+1319,2023-01-20 15:52:08,1,Marquetalia,Caldas,active,17,Colombia
+1320,2023-01-03 22:58:21,1,Argelia,Cauca,active,19,Colombia
+1321,2023-06-10 22:15:15,0,Guayabetal,Cundinamarca,inactive,25,Colombia
+1322,2023-08-10 12:26:51,0,Balboa,Risaralda,inactive,66,Colombia
+1323,2022-04-16 16:22:51,0,Pinillos,Bolívar,inactive,13,Colombia
+1324,2023-08-18 07:49:00,1,Manzanares,Caldas,active,17,Colombia
+1325,2022-10-10 00:54:16,1,Suaita,Santander,active,68,Colombia
+1326,2022-09-29 15:09:10,0,Roncesvalles,Tolima,inactive,73,Colombia
+1327,2022-09-23 21:15:02,0,Puebloviejo,Magdalena,inactive,47,Colombia
+1328,2023-05-28 22:27:10,1,Albán,Cundinamarca,active,25,Colombia
+1329,2022-12-30 15:53:27,1,Tibacuy,Cundinamarca,active,25,Colombia
+1330,2023-05-26 21:22:55,0,San Gil,Santander,inactive,68,Colombia
+1331,2023-11-17 20:55:28,1,Bolívar,Valle del Cauca,active,76,Colombia
+1332,2023-09-20 08:07:10,1,Planeta Rica,Córdoba,active,23,Colombia
+1333,2022-10-14 11:41:03,0,Santa María,Boyacá,inactive,15,Colombia
+1334,2022-04-29 13:28:18,1,Guayabetal,Cundinamarca,active,25,Colombia
+1335,2022-07-20 23:04:56,0,Coyaima,Tolima,inactive,73,Colombia
+1336,2022-04-25 22:27:59,0,Candelaria,Atlántico,inactive,8,Colombia
+1337,2022-08-15 17:20:12,0,Peque,Antioquia,inactive,5,Colombia
+1338,2023-08-29 02:10:48,0,Chivatá,Boyacá,inactive,15,Colombia
+1339,2022-04-19 07:28:06,1,Ibagué,Tolima,active,73,Colombia
+1340,2023-05-05 14:30:40,1,San Martín,Meta,active,50,Colombia
+1341,2023-07-29 16:30:43,1,Necoclí,Antioquia,active,5,Colombia
+1342,2023-03-26 05:25:55,0,Puerto Berrío,Antioquia,inactive,5,Colombia
+1343,2022-07-11 05:26:46,0,Altamira,Huila,inactive,41,Colombia
+1344,2022-12-18 06:52:54,1,Calima,Valle del Cauca,active,76,Colombia
+1345,2023-02-11 18:54:50,1,Cartago,Valle del Cauca,active,76,Colombia
+1346,2023-03-27 00:55:00,0,Cajamarca,Tolima,inactive,73,Colombia
+1347,2023-10-26 02:26:15,1,Santana,Boyacá,active,15,Colombia
+1348,2022-10-03 08:34:03,0,Firavitoba,Boyacá,inactive,15,Colombia
+1349,2022-08-25 08:31:36,0,Jericó,Antioquia,inactive,5,Colombia
+1350,2023-10-05 15:45:44,1,Patía,Cauca,active,19,Colombia
+1351,2023-02-03 11:14:48,0,Arboleda,Nariño,inactive,52,Colombia
+1352,2022-01-22 04:05:57,1,El Dorado,Meta,active,50,Colombia
+1353,2022-01-05 01:51:32,0,San Cristóbal,Bolívar,inactive,13,Colombia
+1354,2022-07-31 23:28:18,1,Gámbita,Santander,active,68,Colombia
+1355,2023-04-14 22:22:55,0,Monguí,Boyacá,inactive,15,Colombia
+1356,2022-12-15 05:16:43,1,Bojayá,Chocó,active,27,Colombia
+1357,2023-09-26 14:45:18,1,Mistrató,Risaralda,active,66,Colombia
+1358,2022-10-09 21:48:37,1,Chiscas,Boyacá,active,15,Colombia
+1359,2022-07-11 18:40:15,1,Almaguer,Cauca,active,19,Colombia
+1360,2022-09-21 04:35:23,1,Quípama,Boyacá,active,15,Colombia
+1361,2022-01-14 04:58:41,1,Arcabuco,Boyacá,active,15,Colombia
+1362,2022-05-10 16:08:24,0,Ragonvalia,Norte de Santander,inactive,54,Colombia
+1363,2024-01-10 01:06:14,0,Pinillos,Bolívar,inactive,13,Colombia
+1364,2022-12-04 04:13:31,1,Guayatá,Boyacá,active,15,Colombia
+1365,2022-04-29 15:29:27,1,Arbeláez,Cundinamarca,active,25,Colombia
+1366,2022-04-04 14:39:20,1,Ginebra,Valle del Cauca,active,76,Colombia
+1367,2023-01-14 04:45:55,1,El Tambo,Nariño,active,52,Colombia
+1368,2022-11-09 18:58:31,1,Pisba,Boyacá,active,15,Colombia
+1369,2022-10-17 12:36:16,0,Pijiño del Carmen,Magdalena,inactive,47,Colombia
+1370,2022-11-18 19:53:49,1,Villeta,Cundinamarca,active,25,Colombia
+1371,2023-10-09 03:18:01,1,Santa Bárbara de Pinto,Magdalena,active,47,Colombia
+1372,2022-09-07 17:41:07,1,Versalles,Valle del Cauca,active,76,Colombia
+1373,2023-07-21 03:10:33,0,Galán,Santander,inactive,68,Colombia
+1374,2022-05-26 01:44:06,1,Rionegro,Santander,active,68,Colombia
+1375,2022-12-20 11:52:19,0,El Copey,Cesar,inactive,20,Colombia
+1376,2023-06-18 00:41:19,1,Segovia,Antioquia,active,5,Colombia
+1377,2022-02-23 10:02:58,0,Albania,Santander,inactive,68,Colombia
+1378,2023-09-27 02:29:39,0,Cimitarra,Santander,inactive,68,Colombia
+1379,2023-01-17 17:40:32,1,Puerto Tejada,Cauca,active,19,Colombia
+1380,2022-07-06 21:07:31,1,Sácama,Casanare,active,85,Colombia
+1381,2022-01-30 23:41:32,0,Juan de Acosta,Atlántico,inactive,8,Colombia
+1382,2023-09-02 14:11:03,0,Gigante,Huila,inactive,41,Colombia
+1383,2022-01-07 21:54:24,1,Corrales,Boyacá,active,15,Colombia
+1384,2023-08-11 01:06:31,1,Colón,Putumayo,active,86,Colombia
+1385,2022-12-12 02:44:35,0,Florencia,Caquetá,inactive,18,Colombia
+1386,2023-03-04 12:59:06,0,San Luis de Sincé,Sucre,inactive,70,Colombia
+1387,2022-01-10 15:26:10,1,Bucarasica,Norte de Santander,active,54,Colombia
+1388,2023-01-14 02:08:45,1,Nátaga,Huila,active,41,Colombia
+1389,2022-12-22 06:52:07,0,El Encanto,Amazonas,inactive,91,Colombia
+1390,2023-11-17 16:40:58,0,Guachetá,Cundinamarca,inactive,25,Colombia
+1391,2023-09-15 16:30:44,0,Macaravita,Santander,inactive,68,Colombia
+1392,2023-08-05 02:51:07,1,Itagüí,Antioquia,active,5,Colombia
+1393,2022-01-25 06:11:04,0,Chaparral,Tolima,inactive,73,Colombia
+1394,2022-02-01 05:03:20,0,Heliconia,Antioquia,inactive,5,Colombia
+1395,2023-01-04 02:58:55,0,Maceo,Antioquia,inactive,5,Colombia
+1396,2022-07-01 06:05:05,1,Cubará,Boyacá,active,15,Colombia
+1397,2022-02-15 17:44:10,1,Bello,Antioquia,active,5,Colombia
+1398,2022-09-16 07:20:12,0,Gutiérrez,Cundinamarca,inactive,25,Colombia
+1399,2022-10-25 11:06:55,1,Mallama,Nariño,active,52,Colombia
+1400,2023-11-18 13:48:23,0,La Dorada,Caldas,inactive,17,Colombia
+1401,2023-10-15 00:34:25,1,Agrado,Huila,active,41,Colombia
+1402,2022-01-17 19:38:20,1,Quimbaya,Quindío,active,63,Colombia
+1403,2022-09-11 21:25:47,0,Yondó,Antioquia,inactive,5,Colombia
+1404,2022-02-24 01:15:12,0,San Pablo de Borbur,Boyacá,inactive,15,Colombia
+1405,2023-09-18 08:02:49,0,Ramiriquí,Boyacá,inactive,15,Colombia
+1406,2022-08-22 12:08:09,0,Maripí,Boyacá,inactive,15,Colombia
+1407,2023-09-13 22:34:59,1,Puente Nacional,Santander,active,68,Colombia
+1408,2022-08-14 11:10:24,1,Salgar,Antioquia,active,5,Colombia
+1409,2022-01-25 01:38:12,1,Quimbaya,Quindío,active,63,Colombia
+1410,2022-09-17 16:02:32,0,Distracción,La Guajira,inactive,44,Colombia
+1411,2024-01-02 09:45:33,1,Bosconia,Cesar,active,20,Colombia
+1412,2024-01-25 13:49:10,0,Guamal,Meta,inactive,50,Colombia
+1413,2023-04-03 13:00:43,0,Sogamoso,Boyacá,inactive,15,Colombia
+1414,2023-04-08 02:52:51,0,Santa Fé de Antioquia,Antioquia,inactive,5,Colombia
+1415,2023-04-07 03:03:55,0,Cachipay,Cundinamarca,inactive,25,Colombia
+1416,2023-12-01 01:26:10,0,Chachagüí,Nariño,inactive,52,Colombia
+1417,2023-01-23 07:17:51,0,Carmen del Darién,Chocó,inactive,27,Colombia
+1418,2023-08-16 03:10:59,0,Nuevo Colón,Boyacá,inactive,15,Colombia
+1419,2023-05-09 10:35:24,0,El Dorado,Meta,inactive,50,Colombia
+1420,2022-06-24 22:29:38,1,Chivolo,Magdalena,active,47,Colombia
+1421,2022-11-30 16:49:51,0,Puerto Colombia,Guainía,inactive,94,Colombia
+1422,2022-10-05 21:32:17,0,Mallama,Nariño,inactive,52,Colombia
+1423,2022-10-28 06:29:33,0,Sora,Boyacá,inactive,15,Colombia
+1424,2023-05-20 15:40:47,0,Bojacá,Cundinamarca,inactive,25,Colombia
+1425,2023-05-04 05:55:51,1,La Celia,Risaralda,active,66,Colombia
+1426,2024-01-01 21:12:12,1,Cáqueza,Cundinamarca,active,25,Colombia
+1427,2022-09-26 19:35:52,1,Firavitoba,Boyacá,active,15,Colombia
+1428,2023-03-15 09:53:21,0,Nátaga,Huila,inactive,41,Colombia
+1429,2022-07-10 00:29:42,1,Clemencia,Bolívar,active,13,Colombia
+1430,2022-06-05 02:23:58,1,Remedios,Antioquia,active,5,Colombia
+1431,2023-02-11 16:09:28,0,Convención,Norte de Santander,inactive,54,Colombia
+1432,2023-01-20 11:41:05,1,Sativasur,Boyacá,active,15,Colombia
+1433,2022-07-26 08:53:12,1,Apulo,Cundinamarca,active,25,Colombia
+1434,2022-10-10 20:34:40,0,Distracción,La Guajira,inactive,44,Colombia
+1435,2022-04-03 14:52:05,1,Versalles,Valle del Cauca,active,76,Colombia
+1436,2023-11-27 15:53:41,0,San Pedro de Urabá,Antioquia,inactive,5,Colombia
+1437,2023-03-24 05:49:20,1,Santo Tomás,Atlántico,active,8,Colombia
+1438,2022-09-18 15:27:08,1,Tunja,Boyacá,active,15,Colombia
+1439,2023-07-31 16:44:54,0,Santa Bárbara,Nariño,inactive,52,Colombia
+1440,2022-12-03 05:09:57,1,San Alberto,Cesar,active,20,Colombia
+1441,2023-10-26 18:48:10,0,Fosca,Cundinamarca,inactive,25,Colombia
+1442,2022-10-03 18:58:58,1,Santana,Boyacá,active,15,Colombia
+1443,2024-01-27 23:25:46,1,Candelaria,Valle del Cauca,active,76,Colombia
+1444,2022-04-11 12:19:16,0,San Juanito,Meta,inactive,50,Colombia
+1445,2023-04-11 04:42:08,0,Pesca,Boyacá,inactive,15,Colombia
+1446,2022-11-29 22:35:08,0,Córdoba,Bolívar,inactive,13,Colombia
+1447,2022-10-25 07:56:03,0,Ventaquemada,Boyacá,inactive,15,Colombia
+1448,2023-09-20 19:49:11,0,Sibaté,Cundinamarca,inactive,25,Colombia
+1449,2023-03-06 15:50:05,0,El Doncello,Caquetá,inactive,18,Colombia
+1450,2022-02-18 13:26:25,1,Rionegro,Santander,active,68,Colombia
+1451,2022-12-04 22:33:49,1,Sahagún,Córdoba,active,23,Colombia
+1452,2023-10-30 00:36:30,0,Piendamó - Tunía,Cauca,inactive,19,Colombia
+1453,2022-02-22 14:45:35,0,Tibú,Norte de Santander,inactive,54,Colombia
+1454,2022-07-31 04:17:25,0,Soracá,Boyacá,inactive,15,Colombia
+1455,2023-03-11 21:18:51,1,Restrepo,Valle del Cauca,active,76,Colombia
+1456,2023-03-05 23:55:35,1,Santa Rosa de Viterbo,Boyacá,active,15,Colombia
+1457,2022-09-25 22:55:56,1,Chaguaní,Cundinamarca,active,25,Colombia
+1458,2023-08-19 21:06:16,1,Baranoa,Atlántico,active,8,Colombia
+1459,2022-05-13 03:48:09,0,Amagá,Antioquia,inactive,5,Colombia
+1460,2023-07-31 00:54:55,1,San Luis de Gaceno,Boyacá,active,15,Colombia
+1461,2022-04-18 11:10:04,1,Norcasia,Caldas,active,17,Colombia
+1462,2022-01-30 09:17:49,0,Guamal,Meta,inactive,50,Colombia
+1463,2023-01-20 14:49:59,0,Ciénaga,Magdalena,inactive,47,Colombia
+1464,2022-05-29 08:38:30,0,Colón,Nariño,inactive,52,Colombia
+1465,2022-11-29 02:09:03,0,Santo Domingo,Antioquia,inactive,5,Colombia
+1466,2023-12-05 12:06:25,0,Puerto Escondido,Córdoba,inactive,23,Colombia
+1467,2024-01-20 01:04:26,1,Sutatenza,Boyacá,active,15,Colombia
+1468,2023-10-17 05:13:35,1,El Encanto,Amazonas,active,91,Colombia
+1469,2022-06-11 05:03:53,1,Covarachía,Boyacá,active,15,Colombia
+1470,2022-06-29 15:21:17,1,Hispania,Antioquia,active,5,Colombia
+1471,2022-05-19 04:20:53,0,Bochalema,Norte de Santander,inactive,54,Colombia
+1472,2022-07-26 01:25:09,1,El Cairo,Valle del Cauca,active,76,Colombia
+1473,2023-10-19 10:33:19,0,Medio Baudó,Chocó,inactive,27,Colombia
+1474,2022-04-23 07:32:07,1,La Celia,Risaralda,active,66,Colombia
+1475,2022-03-19 21:09:29,0,Nóvita,Chocó,inactive,27,Colombia
+1476,2022-06-01 08:20:22,0,Girardot,Cundinamarca,inactive,25,Colombia
+1477,2022-03-12 04:59:39,0,Cicuco,Bolívar,inactive,13,Colombia
+1478,2022-03-05 19:45:32,1,Albania,La Guajira,active,44,Colombia
+1479,2023-07-29 07:41:35,0,Úmbita,Boyacá,inactive,15,Colombia
+1480,2022-03-05 15:16:19,1,Entrerríos,Antioquia,active,5,Colombia
+1481,2022-10-23 15:19:52,0,La Guadalupe,Guainía,inactive,94,Colombia
+1482,2022-11-30 07:02:00,1,Tibú,Norte de Santander,active,54,Colombia
+1483,2023-01-23 22:15:15,0,San Andrés,"San Andrés, Providencia y Santa Catalina",inactive,88,Colombia
+1484,2022-03-09 00:47:24,0,Cogua,Cundinamarca,inactive,25,Colombia
+1485,2022-12-02 16:10:33,1,San Miguel,Santander,active,68,Colombia
+1486,2023-11-05 22:25:14,1,El Zulia,Norte de Santander,active,54,Colombia
+1487,2022-03-19 17:30:49,1,Cuaspud Carlosama,Nariño,active,52,Colombia
+1488,2023-06-23 15:01:44,0,Olaya Herrera,Nariño,inactive,52,Colombia
+1489,2022-12-24 07:49:19,1,Ancuya,Nariño,active,52,Colombia
+1490,2022-01-21 06:44:07,1,Simijaca,Cundinamarca,active,25,Colombia
+1491,2022-10-06 00:55:49,0,Cerrito,Santander,inactive,68,Colombia
+1492,2022-01-14 02:00:12,0,Macanal,Boyacá,inactive,15,Colombia
+1493,2022-01-14 17:28:47,0,Patía,Cauca,inactive,19,Colombia
+1494,2022-11-29 01:32:48,1,Francisco Pizarro,Nariño,active,52,Colombia
+1495,2022-01-01 13:02:38,1,Túquerres,Nariño,active,52,Colombia
+1496,2022-04-07 20:55:08,0,Fúquene,Cundinamarca,inactive,25,Colombia
+1497,2022-03-09 17:46:30,0,Acandí,Chocó,inactive,27,Colombia
+1498,2023-08-18 04:50:03,1,Cómbita,Boyacá,active,15,Colombia
+1499,2022-01-16 11:35:34,1,Hacarí,Norte de Santander,active,54,Colombia
+1500,2023-09-25 13:09:22,1,Boavita,Boyacá,active,15,Colombia
+1501,2022-12-02 02:13:01,0,Rionegro,Santander,inactive,68,Colombia
+1502,2023-06-04 13:14:22,1,Santa Bárbara,Santander,active,68,Colombia
+1503,2022-02-04 22:28:12,1,Armero,Tolima,active,73,Colombia
+1504,2022-06-07 19:06:08,1,San Sebastián de Buenavista,Magdalena,active,47,Colombia
+1505,2024-01-17 12:40:57,1,Albania,La Guajira,active,44,Colombia
+1506,2023-10-10 07:53:15,0,Tesalia,Huila,inactive,41,Colombia
+1507,2022-06-28 06:40:21,1,El Tarra,Norte de Santander,active,54,Colombia
+1508,2023-07-23 05:22:42,0,Baranoa,Atlántico,inactive,8,Colombia
+1509,2023-03-23 13:12:50,0,Campoalegre,Huila,inactive,41,Colombia
+1510,2023-08-19 19:03:05,1,Nocaima,Cundinamarca,active,25,Colombia
+1511,2023-04-27 08:34:54,0,Cocorná,Antioquia,inactive,5,Colombia
+1512,2022-10-21 08:28:25,1,Jericó,Boyacá,active,15,Colombia
+1513,2023-12-22 05:06:31,1,Puerto Parra,Santander,active,68,Colombia
+1514,2023-07-17 03:23:38,1,Guavatá,Santander,active,68,Colombia
+1515,2024-01-13 16:25:46,0,Pandi,Cundinamarca,inactive,25,Colombia
+1516,2022-10-13 08:09:20,1,Marquetalia,Caldas,active,17,Colombia
+1517,2022-04-15 07:36:52,1,Sucre,Cauca,active,19,Colombia
+1518,2022-03-15 05:02:09,0,Alpujarra,Tolima,inactive,73,Colombia
+1519,2022-02-20 14:02:49,0,Mesetas,Meta,inactive,50,Colombia
+1520,2022-05-31 21:09:27,1,Girardot,Cundinamarca,active,25,Colombia
+1521,2023-11-13 04:24:45,1,Topaipí,Cundinamarca,active,25,Colombia
+1522,2023-08-02 21:37:32,1,Santa Fé de Antioquia,Antioquia,active,5,Colombia
+1523,2022-07-29 14:55:52,0,Nobsa,Boyacá,inactive,15,Colombia
+1524,2023-02-01 23:46:11,0,Chivolo,Magdalena,inactive,47,Colombia
+1525,2022-06-08 14:27:17,1,Rionegro,Antioquia,active,5,Colombia
+1526,2023-06-17 07:15:40,0,Cabuyaro,Meta,inactive,50,Colombia
+1527,2023-12-13 03:10:27,1,Lorica,Córdoba,active,23,Colombia
+1528,2023-01-23 10:42:13,0,San Francisco,Cundinamarca,inactive,25,Colombia
+1529,2023-05-30 12:59:30,0,Fresno,Tolima,inactive,73,Colombia
+1530,2022-06-26 18:08:16,1,El Carmen de Viboral,Antioquia,active,5,Colombia
+1531,2022-02-15 09:02:55,1,Trujillo,Valle del Cauca,active,76,Colombia
+1532,2023-09-21 18:13:25,1,San Felipe,Guainía,active,94,Colombia
+1533,2022-09-19 12:16:11,0,Ciudad Bolívar,Antioquia,inactive,5,Colombia
+1534,2023-11-07 16:00:41,1,San Jerónimo,Antioquia,active,5,Colombia
+1535,2022-02-03 19:07:57,0,Nunchía,Casanare,inactive,85,Colombia
+1536,2023-06-29 20:54:31,1,Aguada,Santander,active,68,Colombia
+1537,2022-06-10 01:44:41,0,Vélez,Santander,inactive,68,Colombia
+1538,2023-03-20 16:38:13,0,Agrado,Huila,inactive,41,Colombia
+1539,2022-11-20 12:43:55,0,Tena,Cundinamarca,inactive,25,Colombia
+1540,2022-12-04 18:14:22,1,Guacarí,Valle del Cauca,active,76,Colombia
+1541,2022-06-20 19:59:25,0,Confines,Santander,inactive,68,Colombia
+1542,2023-01-27 15:01:06,0,Cartagena de Indias,Bolívar,inactive,13,Colombia
+1543,2022-02-02 12:06:06,0,Buenavista,Quindío,inactive,63,Colombia
+1544,2023-07-18 10:38:07,0,El Tambo,Cauca,inactive,19,Colombia
+1545,2022-07-21 08:19:01,1,Guamal,Meta,active,50,Colombia
+1546,2023-12-06 17:09:52,0,Cantagallo,Bolívar,inactive,13,Colombia
+1547,2022-03-15 05:18:38,0,San José de Toluviejo,Sucre,inactive,70,Colombia
+1548,2022-02-16 01:41:53,1,Totoró,Cauca,active,19,Colombia
+1549,2024-01-27 04:47:24,0,El Tambo,Cauca,inactive,19,Colombia
+1550,2022-06-23 23:25:25,0,Ibagué,Tolima,inactive,73,Colombia
+1551,2023-10-03 13:04:26,0,Pijao,Quindío,inactive,63,Colombia
+1552,2022-08-01 20:10:43,1,Tarqui,Huila,active,41,Colombia
+1553,2023-03-13 13:50:31,1,Santa Rosalía,Vichada,active,99,Colombia
+1554,2022-10-05 13:22:46,1,Los Palmitos,Sucre,active,70,Colombia
+1555,2022-02-23 16:44:27,1,Taminango,Nariño,active,52,Colombia
+1556,2022-07-22 10:36:04,1,Uribia,La Guajira,active,44,Colombia
+1557,2022-09-23 17:59:10,0,Samacá,Boyacá,inactive,15,Colombia
+1558,2022-01-07 02:08:10,0,Valle del Guamuez,Putumayo,inactive,86,Colombia
+1559,2022-03-22 13:23:17,0,Sabaneta,Antioquia,inactive,5,Colombia
+1560,2022-12-10 21:57:53,0,Carmen de Apicalá,Tolima,inactive,73,Colombia
+1561,2022-05-26 14:09:04,1,San Jacinto,Bolívar,active,13,Colombia
+1562,2023-12-11 12:25:03,0,Mocoa,Putumayo,inactive,86,Colombia
+1563,2023-01-03 10:35:18,1,Colombia,Huila,active,41,Colombia
+1564,2023-01-09 06:56:58,1,Soacha,Cundinamarca,active,25,Colombia
+1565,2023-11-07 02:41:17,1,Venecia,Cundinamarca,active,25,Colombia
+1566,2022-08-09 09:15:54,1,Calima,Valle del Cauca,active,76,Colombia
+1567,2022-07-14 00:17:25,0,Cogua,Cundinamarca,inactive,25,Colombia
+1568,2022-04-18 11:31:25,0,Pedraza,Magdalena,inactive,47,Colombia
+1569,2023-09-17 10:55:11,0,Cumaribo,Vichada,inactive,99,Colombia
+1570,2023-02-04 09:58:39,0,Los Patios,Norte de Santander,inactive,54,Colombia
+1571,2023-07-11 22:28:53,0,Briceño,Boyacá,inactive,15,Colombia
+1572,2023-07-22 10:00:42,0,Barbosa,Antioquia,inactive,5,Colombia
+1573,2023-07-02 02:43:48,0,Arroyohondo,Bolívar,inactive,13,Colombia
+1574,2022-05-25 23:12:15,1,Sabana de Torres,Santander,active,68,Colombia
+1575,2023-04-02 23:31:36,1,San José de Cúcuta,Norte de Santander,active,54,Colombia
+1576,2022-09-22 01:43:24,1,La Celia,Risaralda,active,66,Colombia
+1577,2022-07-28 20:35:34,0,Rioblanco,Tolima,inactive,73,Colombia
+1578,2022-08-26 19:23:38,1,Guachetá,Cundinamarca,active,25,Colombia
+1579,2022-06-10 03:17:58,1,Junín,Cundinamarca,active,25,Colombia
+1580,2022-05-10 01:23:30,0,Chitaraque,Boyacá,inactive,15,Colombia
+1581,2023-09-12 17:29:28,1,Bolívar,Santander,active,68,Colombia
+1582,2023-09-06 02:58:41,0,Yumbo,Valle del Cauca,inactive,76,Colombia
+1583,2023-05-03 00:32:54,0,Fúquene,Cundinamarca,inactive,25,Colombia
+1584,2022-05-31 03:05:37,0,La Uvita,Boyacá,inactive,15,Colombia
+1585,2022-05-28 11:20:39,1,Contadero,Nariño,active,52,Colombia
+1586,2023-09-02 22:00:14,0,Santa Rosalía,Vichada,inactive,99,Colombia
+1587,2022-05-09 09:35:46,1,Salazar,Norte de Santander,active,54,Colombia
+1588,2023-11-30 01:36:09,0,Campamento,Antioquia,inactive,5,Colombia
+1589,2022-05-20 03:35:52,1,Dolores,Tolima,active,73,Colombia
+1590,2023-02-15 18:15:14,1,Chaguaní,Cundinamarca,active,25,Colombia
+1591,2022-02-16 05:23:43,1,Ábrego,Norte de Santander,active,54,Colombia
+1592,2023-03-03 09:57:21,0,La Unión,Nariño,inactive,52,Colombia
+1593,2022-06-12 01:11:48,0,Yacopí,Cundinamarca,inactive,25,Colombia
+1594,2023-10-16 08:22:41,0,Jenesano,Boyacá,inactive,15,Colombia
+1595,2023-02-13 22:10:39,0,Filandia,Quindío,inactive,63,Colombia
+1596,2023-09-15 10:00:58,0,Santa Catalina,Bolívar,inactive,13,Colombia
+1597,2022-02-07 04:29:08,0,Ventaquemada,Boyacá,inactive,15,Colombia
+1598,2023-04-04 22:01:07,0,Viterbo,Caldas,inactive,17,Colombia
+1599,2023-09-16 06:19:04,1,Entrerríos,Antioquia,active,5,Colombia
+1600,2023-09-14 14:12:05,1,Toca,Boyacá,active,15,Colombia
+1601,2023-11-03 07:38:41,0,Santa Rosa de Osos,Antioquia,inactive,5,Colombia
+1602,2023-04-06 05:37:18,1,Florencia,Caquetá,active,18,Colombia
+1603,2023-01-08 05:36:32,1,Gramalote,Norte de Santander,active,54,Colombia
+1604,2022-04-01 18:47:03,0,Piendamó - Tunía,Cauca,inactive,19,Colombia
+1605,2022-06-29 06:51:00,0,La Ceja,Antioquia,inactive,5,Colombia
+1606,2024-01-02 13:11:45,1,Arboleda,Nariño,active,52,Colombia
+1607,2022-04-07 08:34:50,1,Tenza,Boyacá,active,15,Colombia
+1608,2022-01-09 18:13:34,0,Pueblo Rico,Risaralda,inactive,66,Colombia
+1609,2023-06-06 04:17:57,0,San Pedro de los Milagros,Antioquia,inactive,5,Colombia
+1610,2022-11-19 13:54:22,0,El Cocuy,Boyacá,inactive,15,Colombia
+1611,2022-02-15 23:50:03,0,Firavitoba,Boyacá,inactive,15,Colombia
+1612,2023-05-31 16:55:21,0,Ginebra,Valle del Cauca,inactive,76,Colombia
+1613,2023-05-01 23:34:11,0,El Cairo,Valle del Cauca,inactive,76,Colombia
+1614,2023-02-10 12:57:17,1,Agrado,Huila,active,41,Colombia
+1615,2023-01-30 18:36:51,0,El Paso,Cesar,inactive,20,Colombia
+1616,2024-01-17 19:26:48,1,Puerto Parra,Santander,active,68,Colombia
+1617,2023-02-08 04:49:38,1,Ubaque,Cundinamarca,active,25,Colombia
+1618,2023-10-18 23:40:57,1,Cáqueza,Cundinamarca,active,25,Colombia
+1619,2022-06-30 00:24:33,1,Paz de Río,Boyacá,active,15,Colombia
+1620,2022-11-26 20:01:36,0,Une,Cundinamarca,inactive,25,Colombia
+1621,2023-03-01 16:11:45,0,Chocontá,Cundinamarca,inactive,25,Colombia
+1622,2022-08-17 20:24:59,0,Soracá,Boyacá,inactive,15,Colombia
+1623,2023-07-25 23:46:12,0,La Belleza,Santander,inactive,68,Colombia
+1624,2022-11-14 10:56:50,0,Zetaquira,Boyacá,inactive,15,Colombia
+1625,2023-09-01 22:14:43,0,Sahagún,Córdoba,inactive,23,Colombia
+1626,2024-01-21 08:37:36,0,Miraflores,Boyacá,inactive,15,Colombia
+1627,2023-08-02 17:18:12,1,Puerto Tejada,Cauca,active,19,Colombia
+1628,2024-01-13 12:32:13,0,Villahermosa,Tolima,inactive,73,Colombia
+1629,2023-03-18 04:14:31,0,Cerro de San Antonio,Magdalena,inactive,47,Colombia
+1630,2022-06-24 12:31:48,1,San Agustín,Huila,active,41,Colombia
+1631,2022-08-28 06:10:54,1,Los Andes,Nariño,active,52,Colombia
+1632,2022-08-06 02:10:05,1,Palmar de Varela,Atlántico,active,8,Colombia
+1633,2022-03-28 14:48:53,0,Bochalema,Norte de Santander,inactive,54,Colombia
+1634,2022-06-04 09:27:04,0,Gachancipá,Cundinamarca,inactive,25,Colombia
+1635,2023-05-27 12:11:41,0,Galapa,Atlántico,inactive,8,Colombia
+1636,2022-02-02 12:02:37,0,Cumbal,Nariño,inactive,52,Colombia
+1637,2023-05-30 09:53:30,0,Castilla la Nueva,Meta,inactive,50,Colombia
+1638,2022-05-31 03:14:22,1,Fresno,Tolima,active,73,Colombia
+1639,2022-10-01 06:22:03,1,Ebéjico,Antioquia,active,5,Colombia
+1640,2024-01-14 12:12:45,0,Puerto Carreño,Vichada,inactive,99,Colombia
+1641,2022-11-20 14:54:06,1,San José de Pare,Boyacá,active,15,Colombia
+1642,2023-07-22 07:31:23,0,La Chorrera,Amazonas,inactive,91,Colombia
+1643,2022-04-19 01:30:26,1,Riohacha,La Guajira,active,44,Colombia
+1644,2023-12-26 16:05:47,0,Aquitania,Boyacá,inactive,15,Colombia
+1645,2022-09-13 17:42:57,1,Chivatá,Boyacá,active,15,Colombia
+1646,2023-04-24 11:19:27,1,La Victoria,Boyacá,active,15,Colombia
+1647,2023-04-06 08:09:12,0,Inírida,Guainía,inactive,94,Colombia
+1648,2022-08-25 18:13:36,1,Palmar,Santander,active,68,Colombia
+1649,2022-04-24 02:46:32,1,Carurú,Vaupés,active,97,Colombia
+1650,2023-11-20 10:16:20,0,Guarne,Antioquia,inactive,5,Colombia
+1651,2022-04-29 22:17:15,1,Tibirita,Cundinamarca,active,25,Colombia
+1652,2024-01-23 01:39:49,1,Casabianca,Tolima,active,73,Colombia
+1653,2022-11-29 16:48:16,0,Pisba,Boyacá,inactive,15,Colombia
+1654,2023-06-28 23:06:54,0,El Paso,Cesar,inactive,20,Colombia
+1655,2023-01-31 08:40:19,0,Cartagena del Chairá,Caquetá,inactive,18,Colombia
+1656,2022-08-27 12:21:21,1,Cajicá,Cundinamarca,active,25,Colombia
+1657,2023-05-20 20:46:25,0,San Mateo,Boyacá,inactive,15,Colombia
+1658,2024-01-23 18:49:37,0,Dosquebradas,Risaralda,inactive,66,Colombia
+1659,2023-02-08 17:31:52,0,Villa Caro,Norte de Santander,inactive,54,Colombia
+1660,2022-12-22 11:36:59,0,Amalfi,Antioquia,inactive,5,Colombia
+1661,2023-10-01 15:20:39,1,Chigorodó,Antioquia,active,5,Colombia
+1662,2023-03-19 16:47:26,1,San Francisco,Cundinamarca,active,25,Colombia
+1663,2022-11-07 14:03:43,0,Páez,Cauca,inactive,19,Colombia
+1664,2023-04-08 05:07:29,0,San Mateo,Boyacá,inactive,15,Colombia
+1665,2022-12-01 06:18:53,0,Puerto Salgar,Cundinamarca,inactive,25,Colombia
+1666,2023-11-24 07:36:14,1,Arauca,Arauca,active,81,Colombia
+1667,2022-08-28 00:35:04,1,Mutiscua,Norte de Santander,active,54,Colombia
+1668,2023-03-23 14:50:24,0,Lloró,Chocó,inactive,27,Colombia
+1669,2022-08-06 22:01:25,1,Tenerife,Magdalena,active,47,Colombia
+1670,2023-07-14 16:39:14,0,Puerto Salgar,Cundinamarca,inactive,25,Colombia
+1671,2022-07-24 22:50:10,0,Betéitiva,Boyacá,inactive,15,Colombia
+1672,2023-02-22 21:03:48,1,Villavicencio,Meta,active,50,Colombia
+1673,2023-07-27 20:51:52,1,Alpujarra,Tolima,active,73,Colombia
+1674,2022-12-18 18:02:48,1,Cacahual,Guainía,active,94,Colombia
+1675,2023-10-02 13:09:36,1,Anorí,Antioquia,active,5,Colombia
+1676,2023-10-04 09:34:18,0,Colosó,Sucre,inactive,70,Colombia
+1677,2022-11-16 01:56:00,1,Tibacuy,Cundinamarca,active,25,Colombia
+1678,2022-01-27 22:34:06,1,Remedios,Antioquia,active,5,Colombia
+1679,2023-09-04 23:08:42,0,Bugalagrande,Valle del Cauca,inactive,76,Colombia
+1680,2023-06-29 03:36:21,0,Candelaria,Atlántico,inactive,8,Colombia
+1681,2023-04-24 13:54:01,0,Socorro,Santander,inactive,68,Colombia
+1682,2022-10-26 07:57:02,1,Angostura,Antioquia,active,5,Colombia
+1683,2022-01-06 14:09:55,0,San Juan de Urabá,Antioquia,inactive,5,Colombia
+1684,2023-04-14 09:41:17,1,Guarne,Antioquia,active,5,Colombia
+1685,2022-07-08 20:29:54,0,San Carlos,Antioquia,inactive,5,Colombia
+1686,2023-09-25 07:29:22,1,Lourdes,Norte de Santander,active,54,Colombia
+1687,2023-02-12 10:45:30,1,Distracción,La Guajira,active,44,Colombia
+1688,2023-07-15 23:17:18,1,Tarqui,Huila,active,41,Colombia
+1689,2023-03-26 22:39:19,0,El Zulia,Norte de Santander,inactive,54,Colombia
+1690,2022-08-16 21:40:43,1,La Unión,Antioquia,active,5,Colombia
+1691,2022-08-21 22:45:10,1,San Vicente Ferrer,Antioquia,active,5,Colombia
+1692,2023-08-25 14:55:13,0,Carmen del Darién,Chocó,inactive,27,Colombia
+1693,2023-07-05 06:35:35,1,La Dorada,Caldas,active,17,Colombia
+1694,2023-01-26 19:34:42,1,Ariguaní,Magdalena,active,47,Colombia
+1695,2022-04-04 08:30:55,0,Suan,Atlántico,inactive,8,Colombia
+1696,2022-04-04 07:03:31,0,Simijaca,Cundinamarca,inactive,25,Colombia
+1697,2022-01-22 12:55:26,1,San Juan de Arama,Meta,active,50,Colombia
+1698,2023-03-11 06:17:52,1,Bogotá,Cundinamarca,active,25,Colombia
+1699,2022-07-09 21:05:19,0,San Benito Abad,Sucre,inactive,70,Colombia
+1700,2023-08-05 17:34:29,1,Concordia,Antioquia,active,5,Colombia
+1701,2023-08-10 07:34:18,1,Sasaima,Cundinamarca,active,25,Colombia
+1702,2023-09-06 03:40:34,0,Santuario,Risaralda,inactive,66,Colombia
+1703,2023-04-27 12:27:43,0,Andes,Antioquia,inactive,5,Colombia
+1704,2023-05-22 14:42:30,0,La Belleza,Santander,inactive,68,Colombia
+1705,2023-05-05 11:39:30,0,Paz de Ariporo,Casanare,inactive,85,Colombia
+1706,2023-07-23 15:48:25,0,La Uvita,Boyacá,inactive,15,Colombia
+1707,2022-05-27 11:26:57,1,Bello,Antioquia,active,5,Colombia
+1708,2022-02-15 18:55:34,1,Coper,Boyacá,active,15,Colombia
+1709,2023-06-02 23:58:12,0,Cubarral,Meta,inactive,50,Colombia
+1710,2023-07-18 23:25:46,0,La Ceja,Antioquia,inactive,5,Colombia
+1711,2023-05-10 15:24:07,0,Caicedo,Antioquia,inactive,5,Colombia
+1712,2022-09-09 12:42:16,1,Balboa,Cauca,active,19,Colombia
+1713,2024-01-12 01:08:48,1,La Vega,Cundinamarca,active,25,Colombia
+1714,2023-11-16 03:30:43,0,Valle de San Juan,Tolima,inactive,73,Colombia
+1715,2022-04-14 12:42:15,0,Belén,Nariño,inactive,52,Colombia
+1716,2023-04-26 23:46:58,0,Chitaraque,Boyacá,inactive,15,Colombia
+1717,2022-06-25 20:58:20,1,Apía,Risaralda,active,66,Colombia
+1718,2022-12-02 05:36:22,1,Nocaima,Cundinamarca,active,25,Colombia
+1719,2022-01-21 23:52:21,1,La Merced,Caldas,active,17,Colombia
+1720,2022-01-11 01:40:14,0,San Sebastián,Cauca,inactive,19,Colombia
+1721,2022-11-27 12:11:35,1,Nuquí,Chocó,active,27,Colombia
+1722,2023-10-14 11:20:31,0,Jardín,Antioquia,inactive,5,Colombia
+1723,2024-01-15 16:01:49,1,Barrancominas,Guainía,active,94,Colombia
+1724,2022-02-20 05:13:24,0,Córdoba,Quindío,inactive,63,Colombia
+1725,2023-10-23 12:14:10,0,Zaragoza,Antioquia,inactive,5,Colombia
+1726,2023-08-17 05:39:43,1,Pijao,Quindío,active,63,Colombia
+1727,2022-03-25 00:04:10,0,Dabeiba,Antioquia,inactive,5,Colombia
+1728,2024-01-27 20:52:13,1,Matanza,Santander,active,68,Colombia
+1729,2023-01-18 16:22:51,0,Jordán,Santander,inactive,68,Colombia
+1730,2022-07-25 01:43:05,1,Villagómez,Cundinamarca,active,25,Colombia
+1731,2022-09-21 19:02:22,1,Pamplonita,Norte de Santander,active,54,Colombia
+1732,2022-09-27 08:48:08,1,Purificación,Tolima,active,73,Colombia
+1733,2022-01-21 03:36:23,0,Arcabuco,Boyacá,inactive,15,Colombia
+1734,2022-01-29 17:23:37,0,Acevedo,Huila,inactive,41,Colombia
+1735,2022-03-19 01:25:48,0,Liborina,Antioquia,inactive,5,Colombia
+1736,2022-01-17 20:37:38,0,San Andrés de Tumaco,Nariño,inactive,52,Colombia
+1737,2023-11-10 23:52:27,1,Alpujarra,Tolima,active,73,Colombia
+1738,2022-04-07 13:15:36,1,Barrancabermeja,Santander,active,68,Colombia
+1739,2023-11-01 08:32:09,1,Miranda,Cauca,active,19,Colombia
+1740,2023-07-29 19:03:11,0,Pailitas,Cesar,inactive,20,Colombia
+1741,2023-02-14 14:36:49,1,Guayatá,Boyacá,active,15,Colombia
+1742,2023-06-21 19:37:35,0,Piedecuesta,Santander,inactive,68,Colombia
+1743,2023-04-04 11:41:33,0,Florencia,Caquetá,inactive,18,Colombia
+1744,2023-05-10 23:46:06,1,Carmen del Darién,Chocó,active,27,Colombia
+1745,2023-07-13 10:56:58,0,Granada,Meta,inactive,50,Colombia
+1746,2023-07-31 10:04:33,0,Fuente de Oro,Meta,inactive,50,Colombia
+1747,2023-04-07 13:51:47,1,Dagua,Valle del Cauca,active,76,Colombia
+1748,2023-03-10 12:46:02,1,Ipiales,Nariño,active,52,Colombia
+1749,2022-12-11 22:02:12,0,Solano,Caquetá,inactive,18,Colombia
+1750,2023-11-08 07:13:57,0,Uramita,Antioquia,inactive,5,Colombia
+1751,2022-08-14 06:19:14,1,Riohacha,La Guajira,active,44,Colombia
+1752,2022-01-17 05:13:19,1,Uribia,La Guajira,active,44,Colombia
+1753,2023-05-28 03:01:55,0,Chíquiza,Boyacá,inactive,15,Colombia
+1754,2022-10-11 12:34:09,1,San José de Uré,Córdoba,active,23,Colombia
+1755,2023-01-20 22:29:32,1,Riosucio,Caldas,active,17,Colombia
+1756,2022-09-05 15:01:21,0,Guatavita,Cundinamarca,inactive,25,Colombia
+1757,2022-06-04 02:56:53,1,Manaure,La Guajira,active,44,Colombia
+1758,2022-12-23 21:17:23,1,Natagaima,Tolima,active,73,Colombia
+1759,2023-12-31 12:26:18,1,Caicedonia,Valle del Cauca,active,76,Colombia
+1760,2022-07-09 21:06:33,0,Túquerres,Nariño,inactive,52,Colombia
+1761,2022-08-27 12:42:23,1,Guadalupe,Huila,active,41,Colombia
+1762,2022-12-23 09:35:36,0,Valle de San José,Santander,inactive,68,Colombia
+1763,2022-05-06 11:53:54,0,Salgar,Antioquia,inactive,5,Colombia
+1764,2022-06-02 23:50:50,1,San Jerónimo,Antioquia,active,5,Colombia
+1765,2022-01-06 01:25:45,1,Hacarí,Norte de Santander,active,54,Colombia
+1766,2022-07-11 11:36:06,1,Santiago de Tolú,Sucre,active,70,Colombia
+1767,2023-05-03 05:13:11,0,Tubará,Atlántico,inactive,8,Colombia
+1768,2023-12-04 18:49:41,0,Rivera,Huila,inactive,41,Colombia
+1769,2022-02-14 04:36:04,0,Providencia,Nariño,inactive,52,Colombia
+1770,2022-01-20 04:52:33,0,Gigante,Huila,inactive,41,Colombia
+1771,2023-01-29 22:47:01,1,Arenal,Bolívar,active,13,Colombia
+1772,2023-02-06 18:04:31,0,Chinácota,Norte de Santander,inactive,54,Colombia
+1773,2022-03-08 04:05:29,0,El Dorado,Meta,inactive,50,Colombia
+1774,2022-01-21 00:31:44,0,El Cairo,Valle del Cauca,inactive,76,Colombia
+1775,2023-09-08 02:41:00,1,Pueblorrico,Antioquia,active,5,Colombia
+1776,2023-07-03 02:29:47,0,Arauca,Arauca,inactive,81,Colombia
+1777,2022-11-13 14:45:20,1,Encino,Santander,active,68,Colombia
+1778,2023-07-31 23:08:56,0,San Bernardo,Cundinamarca,inactive,25,Colombia
+1779,2022-10-24 12:21:04,1,Santuario,Risaralda,active,66,Colombia
+1780,2022-01-24 00:21:36,1,El Peñón,Bolívar,active,13,Colombia
+1781,2022-09-09 20:20:56,1,Puerto Asís,Putumayo,active,86,Colombia
+1782,2022-06-30 05:13:58,1,Sáchica,Boyacá,active,15,Colombia
+1783,2023-09-26 11:19:14,0,Corozal,Sucre,inactive,70,Colombia
+1784,2023-03-10 09:30:27,1,Carurú,Vaupés,active,97,Colombia
+1785,2022-11-23 10:01:51,1,Luruaco,Atlántico,active,8,Colombia
+1786,2023-06-26 08:12:56,0,González,Cesar,inactive,20,Colombia
+1787,2023-07-24 02:18:14,1,Pivijay,Magdalena,active,47,Colombia
+1788,2023-09-22 09:55:16,1,San Jacinto del Cauca,Bolívar,active,13,Colombia
+1789,2022-09-27 23:12:20,0,Coello,Tolima,inactive,73,Colombia
+1790,2022-12-03 18:57:43,1,Soracá,Boyacá,active,15,Colombia
+1791,2023-05-14 15:05:43,1,El Roble,Sucre,active,70,Colombia
+1792,2022-08-30 15:15:18,0,San Pablo de Borbur,Boyacá,inactive,15,Colombia
+1793,2022-03-04 09:44:40,1,Toledo,Antioquia,active,5,Colombia
+1794,2023-04-08 05:56:17,1,Entrerríos,Antioquia,active,5,Colombia
+1795,2024-01-08 07:10:06,0,Turmequé,Boyacá,inactive,15,Colombia
+1796,2022-09-27 16:10:22,0,Hobo,Huila,inactive,41,Colombia
+1797,2022-12-30 22:44:05,1,Sutamarchán,Boyacá,active,15,Colombia
+1798,2023-05-06 20:32:32,0,Aguadas,Caldas,inactive,17,Colombia
+1799,2022-03-05 08:33:35,1,Soatá,Boyacá,active,15,Colombia
+1800,2023-01-24 01:42:03,0,Guarne,Antioquia,inactive,5,Colombia
+1801,2023-12-28 05:37:34,0,Ataco,Tolima,inactive,73,Colombia
+1802,2023-06-22 20:36:34,1,Cacahual,Guainía,active,94,Colombia
+1803,2023-11-23 01:07:26,0,Arboletes,Antioquia,inactive,5,Colombia
+1804,2023-01-12 21:27:20,1,Rosas,Cauca,active,19,Colombia
+1805,2023-06-30 05:57:59,0,Santa Ana,Magdalena,inactive,47,Colombia
+1806,2023-05-05 12:33:20,1,Carcasí,Santander,active,68,Colombia
+1807,2023-07-31 09:15:32,0,Cepitá,Santander,inactive,68,Colombia
+1808,2023-06-09 01:36:46,1,Puerto Escondido,Córdoba,active,23,Colombia
+1809,2023-12-12 20:50:25,0,Venecia,Antioquia,inactive,5,Colombia
+1810,2022-03-01 17:19:45,1,Sotaquirá,Boyacá,active,15,Colombia
+1811,2022-03-21 04:56:14,1,Manzanares,Caldas,active,17,Colombia
+1812,2023-12-03 18:48:37,1,Miranda,Cauca,active,19,Colombia
+1813,2023-04-05 11:16:42,1,Subachoque,Cundinamarca,active,25,Colombia
+1814,2022-12-17 08:04:57,0,Chitagá,Norte de Santander,inactive,54,Colombia
+1815,2022-05-01 00:50:51,1,Acevedo,Huila,active,41,Colombia
+1816,2022-02-14 05:48:47,1,Filandia,Quindío,active,63,Colombia
+1817,2024-01-21 22:21:16,0,Puerto Colombia,Guainía,inactive,94,Colombia
+1818,2023-08-10 18:52:46,0,Timaná,Huila,inactive,41,Colombia
+1819,2023-08-21 02:45:20,1,Arauca,Arauca,active,81,Colombia
+1820,2023-09-28 07:38:47,0,Vetas,Santander,inactive,68,Colombia
+1821,2023-10-04 20:49:55,1,San Cayetano,Cundinamarca,active,25,Colombia
+1822,2022-06-29 13:30:01,1,Macaravita,Santander,active,68,Colombia
+1823,2022-06-14 13:41:57,1,Guapotá,Santander,active,68,Colombia
+1824,2023-06-26 17:21:10,0,Villeta,Cundinamarca,inactive,25,Colombia
+1825,2022-12-29 14:06:19,1,Garagoa,Boyacá,active,15,Colombia
+1826,2022-07-08 21:56:00,1,Motavita,Boyacá,active,15,Colombia
+1827,2023-08-27 08:53:33,0,La Estrella,Antioquia,inactive,5,Colombia
+1828,2023-05-04 12:32:40,0,Bolívar,Valle del Cauca,inactive,76,Colombia
+1829,2022-04-01 16:49:02,1,Atrato,Chocó,active,27,Colombia
+1830,2022-11-13 04:11:25,1,Elías,Huila,active,41,Colombia
+1831,2023-01-03 14:49:17,0,Samaniego,Nariño,inactive,52,Colombia
+1832,2022-10-18 12:02:35,1,Cachipay,Cundinamarca,active,25,Colombia
+1833,2023-10-10 20:03:31,1,Bogotá,Cundinamarca,active,25,Colombia
+1834,2022-08-07 15:36:04,1,Villavicencio,Meta,active,50,Colombia
+1835,2022-04-30 14:38:50,1,Córdoba,Quindío,active,63,Colombia
+1836,2022-05-03 13:01:20,0,Guática,Risaralda,inactive,66,Colombia
+1837,2023-04-04 00:39:38,1,La Merced,Caldas,active,17,Colombia
+1838,2022-01-08 20:19:38,0,Apía,Risaralda,inactive,66,Colombia
+1839,2023-09-05 10:59:41,1,Viotá,Cundinamarca,active,25,Colombia
+1840,2022-04-01 09:52:31,1,Puente Nacional,Santander,active,68,Colombia
+1841,2023-03-14 18:25:45,1,Bagadó,Chocó,active,27,Colombia
+1842,2023-03-31 06:50:57,1,Belalcázar,Caldas,active,17,Colombia
+1843,2023-12-07 08:53:56,1,Alpujarra,Tolima,active,73,Colombia
+1844,2022-04-11 17:18:04,1,Ipiales,Nariño,active,52,Colombia
+1845,2022-04-10 17:11:15,0,Guadalupe,Santander,inactive,68,Colombia
+1846,2023-11-27 08:40:38,1,Valencia,Córdoba,active,23,Colombia
+1847,2023-01-07 14:20:42,1,Orito,Putumayo,active,86,Colombia
+1848,2022-08-27 21:31:19,1,San Bernardo del Viento,Córdoba,active,23,Colombia
+1849,2023-04-17 20:33:29,1,El Águila,Valle del Cauca,active,76,Colombia
+1850,2023-04-11 06:43:09,0,Jenesano,Boyacá,inactive,15,Colombia
+1851,2023-03-18 09:43:09,1,Villa de San Diego de Ubaté,Cundinamarca,active,25,Colombia
+1852,2023-08-20 00:35:17,0,La Unión,Nariño,inactive,52,Colombia
+1853,2023-11-23 16:49:27,0,Cubará,Boyacá,inactive,15,Colombia
+1854,2022-02-24 08:41:42,1,Ragonvalia,Norte de Santander,active,54,Colombia
+1855,2023-03-23 15:47:17,1,Baraya,Huila,active,41,Colombia
+1856,2022-12-20 07:42:38,0,Arboledas,Norte de Santander,inactive,54,Colombia
+1857,2022-02-16 10:16:23,1,Pandi,Cundinamarca,active,25,Colombia
+1858,2022-02-02 16:31:16,0,Macaravita,Santander,inactive,68,Colombia
+1859,2023-08-06 03:24:04,0,Palmito,Sucre,inactive,70,Colombia
+1860,2023-04-15 12:48:26,0,San Onofre,Sucre,inactive,70,Colombia
+1861,2022-06-21 10:47:46,1,Acevedo,Huila,active,41,Colombia
+1862,2022-07-24 15:59:51,1,Suratá,Santander,active,68,Colombia
+1863,2022-09-26 09:25:28,0,Pasto,Nariño,inactive,52,Colombia
+1864,2023-06-21 13:32:12,1,Santa Rosa de Cabal,Risaralda,active,66,Colombia
+1865,2023-06-07 11:45:44,0,Santacruz,Nariño,inactive,52,Colombia
+1866,2023-04-26 15:12:11,0,Medina,Cundinamarca,inactive,25,Colombia
+1867,2022-01-27 00:52:26,0,Corrales,Boyacá,inactive,15,Colombia
+1868,2023-04-11 13:05:10,1,El Espino,Boyacá,active,15,Colombia
+1869,2023-10-09 07:49:17,1,Aguazul,Casanare,active,85,Colombia
+1870,2022-02-02 11:06:01,0,Entrerríos,Antioquia,inactive,5,Colombia
+1871,2022-09-16 13:59:28,0,Milán,Caquetá,inactive,18,Colombia
+1872,2024-01-20 14:38:17,0,Jardín,Antioquia,inactive,5,Colombia
+1873,2023-02-24 20:23:19,1,Mogotes,Santander,active,68,Colombia
+1874,2023-03-28 12:11:29,1,Montecristo,Bolívar,active,13,Colombia
+1875,2023-07-05 07:57:19,1,Guateque,Boyacá,active,15,Colombia
+1876,2022-02-25 04:38:19,0,Fortul,Arauca,inactive,81,Colombia
+1877,2022-09-11 11:29:46,0,Piendamó - Tunía,Cauca,inactive,19,Colombia
+1878,2022-10-29 11:45:43,0,La Macarena,Meta,inactive,50,Colombia
+1879,2022-04-30 09:46:14,1,Candelaria,Atlántico,active,8,Colombia
+1880,2022-07-18 18:02:08,0,San Cayetano,Norte de Santander,inactive,54,Colombia
+1881,2022-09-17 03:36:31,1,Arjona,Bolívar,active,13,Colombia
+1882,2022-12-08 23:56:33,0,Maripí,Boyacá,inactive,15,Colombia
+1883,2023-09-01 09:39:26,0,El Copey,Cesar,inactive,20,Colombia
+1884,2022-01-14 07:35:17,0,Chiquinquirá,Boyacá,inactive,15,Colombia
+1885,2022-02-07 07:02:11,0,El Colegio,Cundinamarca,inactive,25,Colombia
+1886,2024-01-17 02:27:19,0,San Estanislao,Bolívar,inactive,13,Colombia
+1887,2022-10-20 01:39:29,1,El Roble,Sucre,active,70,Colombia
+1888,2023-08-03 01:21:38,1,Cucutilla,Norte de Santander,active,54,Colombia
+1889,2024-01-24 02:02:56,1,Maní,Casanare,active,85,Colombia
+1890,2022-12-22 18:13:05,0,San Cristóbal,Bolívar,inactive,13,Colombia
+1891,2022-11-05 21:07:08,1,Tutazá,Boyacá,active,15,Colombia
+1892,2023-07-04 17:54:55,0,Andes,Antioquia,inactive,5,Colombia
+1893,2022-11-18 07:23:29,1,Cumaral,Meta,active,50,Colombia
+1894,2022-05-07 20:51:28,0,San Francisco,Antioquia,inactive,5,Colombia
+1895,2023-08-21 06:15:43,0,Soatá,Boyacá,inactive,15,Colombia
+1896,2022-07-19 22:57:38,0,Pácora,Caldas,inactive,17,Colombia
+1897,2022-11-24 17:18:46,0,Oiba,Santander,inactive,68,Colombia
+1898,2023-03-14 01:18:01,1,Buenavista,Boyacá,active,15,Colombia
+1899,2023-12-27 18:20:03,0,Cajibío,Cauca,inactive,19,Colombia
+1900,2023-03-22 20:07:35,1,Chiriguaná,Cesar,active,20,Colombia
+1901,2023-06-26 08:46:54,0,San Vicente Ferrer,Antioquia,inactive,5,Colombia
+1902,2022-09-30 12:49:05,1,La Chorrera,Amazonas,active,91,Colombia
+1903,2022-09-08 09:01:30,0,Puerto Asís,Putumayo,inactive,86,Colombia
+1904,2022-10-18 14:21:49,0,Guamal,Magdalena,inactive,47,Colombia
+1905,2022-10-07 06:40:41,1,Distracción,La Guajira,active,44,Colombia
+1906,2022-10-15 11:19:19,1,Oiba,Santander,active,68,Colombia
+1907,2022-04-27 11:13:56,1,Milán,Caquetá,active,18,Colombia
+1908,2023-11-05 07:04:18,0,Sonsón,Antioquia,inactive,5,Colombia
+1909,2023-05-17 18:05:02,0,Rionegro,Antioquia,inactive,5,Colombia
+1910,2023-01-10 07:53:19,0,San Luis,Antioquia,inactive,5,Colombia
+1911,2023-07-09 07:58:54,0,Ragonvalia,Norte de Santander,inactive,54,Colombia
+1912,2022-11-20 05:05:08,0,Vélez,Santander,inactive,68,Colombia
+1913,2023-01-28 16:41:54,1,Riosucio,Chocó,active,27,Colombia
+1914,2022-12-28 11:28:42,1,San Zenón,Magdalena,active,47,Colombia
+1915,2022-07-11 15:07:16,1,Moñitos,Córdoba,active,23,Colombia
+1916,2022-03-08 16:22:32,0,Alvarado,Tolima,inactive,73,Colombia
+1917,2023-11-04 05:17:09,1,Útica,Cundinamarca,active,25,Colombia
+1918,2022-07-16 02:49:10,0,Belén de Umbría,Risaralda,inactive,66,Colombia
+1919,2023-10-12 16:21:32,0,Chipaque,Cundinamarca,inactive,25,Colombia
+1920,2023-03-01 03:39:24,1,Pachavita,Boyacá,active,15,Colombia
+1921,2022-11-27 06:54:19,0,Cáceres,Antioquia,inactive,5,Colombia
+1922,2022-09-26 08:44:29,1,Suratá,Santander,active,68,Colombia
+1923,2023-07-06 17:05:59,1,Baraya,Huila,active,41,Colombia
+1924,2022-11-13 00:43:28,1,Neiva,Huila,active,41,Colombia
+1925,2023-10-30 05:15:40,1,Morales,Cauca,active,19,Colombia
+1926,2022-09-09 15:26:39,1,Jambaló,Cauca,active,19,Colombia
+1927,2023-06-17 18:01:47,1,Vistahermosa,Meta,active,50,Colombia
+1928,2023-04-05 04:36:53,1,El Carmen de Viboral,Antioquia,active,5,Colombia
+1929,2023-12-07 03:55:32,0,Tutazá,Boyacá,inactive,15,Colombia
+1930,2022-08-21 06:31:44,1,Distracción,La Guajira,active,44,Colombia
+1931,2022-03-30 18:11:57,0,Morelia,Caquetá,inactive,18,Colombia
+1932,2022-10-24 20:19:58,0,Medio Atrato,Chocó,inactive,27,Colombia
+1933,2023-04-22 13:11:30,1,Boavita,Boyacá,active,15,Colombia
+1934,2022-01-21 19:40:58,1,Aquitania,Boyacá,active,15,Colombia
+1935,2022-03-06 00:20:01,1,La Macarena,Meta,active,50,Colombia
+1936,2023-08-29 15:36:26,1,Puerto Colombia,Atlántico,active,8,Colombia
+1937,2023-02-13 21:55:20,0,Planeta Rica,Córdoba,inactive,23,Colombia
+1938,2023-01-06 20:43:23,1,Chiriguaná,Cesar,active,20,Colombia
+1939,2024-01-12 02:22:44,0,Ancuya,Nariño,inactive,52,Colombia
+1940,2022-03-08 11:08:43,1,Encino,Santander,active,68,Colombia
+1941,2022-08-11 20:35:59,1,Albania,La Guajira,active,44,Colombia
+1942,2022-10-08 16:27:57,1,Murindó,Antioquia,active,5,Colombia
+1943,2022-04-10 09:15:36,1,Concepción,Antioquia,active,5,Colombia
+1944,2023-11-16 17:05:05,0,El Águila,Valle del Cauca,inactive,76,Colombia
+1945,2023-03-03 17:13:16,0,Gamarra,Cesar,inactive,20,Colombia
+1946,2022-04-11 00:50:01,1,Pamplona,Norte de Santander,active,54,Colombia
+1947,2022-01-10 04:02:20,1,Entrerríos,Antioquia,active,5,Colombia
+1948,2024-01-07 16:15:02,1,El Tambo,Cauca,active,19,Colombia
+1949,2023-03-28 01:28:07,1,Barbosa,Antioquia,active,5,Colombia
+1950,2023-01-15 01:39:25,0,Zona Bananera,Magdalena,inactive,47,Colombia
+1951,2023-10-11 02:32:53,0,Briceño,Antioquia,inactive,5,Colombia
+1952,2022-03-13 06:27:43,1,Pesca,Boyacá,active,15,Colombia
+1953,2023-05-07 04:15:33,1,Montenegro,Quindío,active,63,Colombia
+1954,2022-05-17 14:06:19,1,Vetas,Santander,active,68,Colombia
+1955,2023-11-02 05:27:00,1,Moniquirá,Boyacá,active,15,Colombia
+1956,2022-09-04 15:18:46,1,Palestina,Caldas,active,17,Colombia
+1957,2022-06-27 10:50:45,1,González,Cesar,active,20,Colombia
+1958,2022-07-09 10:46:16,1,Otanche,Boyacá,active,15,Colombia
+1959,2022-02-27 09:29:44,1,Apulo,Cundinamarca,active,25,Colombia
+1960,2022-08-09 02:44:25,0,La Plata,Huila,inactive,41,Colombia
+1961,2023-12-03 03:11:24,0,Cubará,Boyacá,inactive,15,Colombia
+1962,2023-10-17 14:14:39,1,Yarumal,Antioquia,active,5,Colombia
+1963,2023-04-10 05:17:03,1,Granada,Meta,active,50,Colombia
+1964,2023-12-31 05:36:16,1,Piedras,Tolima,active,73,Colombia
+1965,2023-11-21 08:54:53,0,Purificación,Tolima,inactive,73,Colombia
+1966,2022-12-10 22:43:59,1,La Florida,Nariño,active,52,Colombia
+1967,2023-08-03 06:51:44,1,San Jacinto del Cauca,Bolívar,active,13,Colombia
+1968,2023-12-02 22:28:37,1,Jordán,Santander,active,68,Colombia
+1969,2022-10-09 18:12:55,1,Suesca,Cundinamarca,active,25,Colombia
+1970,2022-05-15 21:40:27,0,Pore,Casanare,inactive,85,Colombia
+1971,2023-12-20 05:54:01,1,Baranoa,Atlántico,active,8,Colombia
+1972,2023-01-25 10:17:21,0,San Gil,Santander,inactive,68,Colombia
+1973,2022-12-23 22:49:32,1,Quetame,Cundinamarca,active,25,Colombia
+1974,2022-02-03 09:17:11,1,Florencia,Cauca,active,19,Colombia
+1975,2023-02-25 17:55:33,0,Tinjacá,Boyacá,inactive,15,Colombia
+1976,2022-09-07 05:27:45,0,Galán,Santander,inactive,68,Colombia
+1977,2022-07-02 05:23:48,1,Argelia,Cauca,active,19,Colombia
+1978,2022-06-23 16:08:28,0,Rionegro,Santander,inactive,68,Colombia
+1979,2022-12-25 05:57:12,0,Cepitá,Santander,inactive,68,Colombia
+1980,2022-11-24 23:31:09,1,Versalles,Valle del Cauca,active,76,Colombia
+1981,2023-03-11 11:53:21,0,Cogua,Cundinamarca,inactive,25,Colombia
+1982,2023-09-09 17:58:37,0,Viracachá,Boyacá,inactive,15,Colombia
+1983,2022-05-30 03:25:22,1,San Carlos,Antioquia,active,5,Colombia
+1984,2023-12-10 06:49:29,1,Valledupar,Cesar,active,20,Colombia
+1985,2022-03-09 18:14:12,1,La Sierra,Cauca,active,19,Colombia
+1986,2023-03-28 15:07:50,0,Aldana,Nariño,inactive,52,Colombia
+1987,2022-11-26 17:40:21,0,Gamarra,Cesar,inactive,20,Colombia
+1988,2023-04-17 06:17:57,1,San José del Fragua,Caquetá,active,18,Colombia
+1989,2023-10-20 10:19:15,1,Yavaraté,Vaupés,active,97,Colombia
+1990,2022-09-14 20:59:55,0,Puerto Rondón,Arauca,inactive,81,Colombia
+1991,2022-10-25 23:39:09,0,La Celia,Risaralda,inactive,66,Colombia
+1992,2022-01-15 17:17:10,1,Gachalá,Cundinamarca,active,25,Colombia
+1993,2022-12-11 07:49:14,0,San Francisco,Cundinamarca,inactive,25,Colombia
+1994,2023-07-05 09:40:09,0,Manta,Cundinamarca,inactive,25,Colombia
+1995,2022-01-27 12:44:33,0,Rionegro,Santander,inactive,68,Colombia
+1996,2022-04-25 03:06:34,0,Córdoba,Bolívar,inactive,13,Colombia
+1997,2023-01-15 10:14:05,1,Quibdó,Chocó,active,27,Colombia
+1998,2023-08-09 16:21:43,1,Retiro,Antioquia,active,5,Colombia
+1999,2022-05-06 20:04:21,0,Mistrató,Risaralda,inactive,66,Colombia
+2000,2022-10-15 07:50:35,0,Ansermanuevo,Valle del Cauca,inactive,76,Colombia

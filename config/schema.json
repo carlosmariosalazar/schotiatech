@@ -1,0 +1,8 @@
+{
+    "clients": {
+        "id_client": "INT AUTO_INCREMENT PRIMARY KEY",
+        "period": "DATETIME NOT NULL",
+        "status": "ENUM('active','inactive') NOT NULL",
+        "city_client": "VARCHAR (64) NOT NULL"
+    }
+}
